@@ -85,7 +85,7 @@ async function main() {
   };
 
   const snabofficeTree = JSON.parse(
-    readFileSync(path.join(__dirname, "data", "snaboffice-category-tree.json"), "utf8"),
+    readFileSync(path.join(__dirname, "data", "shop-category-tree.json"), "utf8"),
   ) as SnabOfficeRoot[];
 
   const categoryBySlug: Record<string, string> = {};
