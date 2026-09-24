@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "User" ADD COLUMN "buyAsOrg" BOOLEAN NOT NULL DEFAULT false;

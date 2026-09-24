@@ -1,0 +1,2430 @@
+[
+    {
+        "slug":  "2х3",
+        "name":  "2х3"
+    },
+    {
+        "slug":  "3m",
+        "name":  "3M"
+    },
+    {
+        "slug":  "a-d-m",
+        "name":  "A.D.M."
+    },
+    {
+        "slug":  "a4",
+        "name":  "A4"
+    },
+    {
+        "slug":  "academy-style",
+        "name":  "Academy Style"
+    },
+    {
+        "slug":  "acer",
+        "name":  "Acer"
+    },
+    {
+        "slug":  "agura",
+        "name":  "Agura"
+    },
+    {
+        "slug":  "aiko",
+        "name":  "Aiko"
+    },
+    {
+        "slug":  "alcas",
+        "name":  "Alcas"
+    },
+    {
+        "slug":  "alco",
+        "name":  "Alco"
+    },
+    {
+        "slug":  "amos",
+        "name":  "Amos"
+    },
+    {
+        "slug":  "anagram",
+        "name":  "Anagram"
+    },
+    {
+        "slug":  "annet",
+        "name":  "Annet"
+    },
+    {
+        "slug":  "aos",
+        "name":  "AOS"
+    },
+    {
+        "slug":  "app",
+        "name":  "APP"
+    },
+    {
+        "slug":  "arida-home",
+        "name":  "Arida Home"
+    },
+    {
+        "slug":  "armytek",
+        "name":  "Armytek"
+    },
+    {
+        "slug":  "artfox",
+        "name":  "ArtFox"
+    },
+    {
+        "slug":  "artspace",
+        "name":  "ArtSpace"
+    },
+    {
+        "slug":  "asobu",
+        "name":  "Asobu"
+    },
+    {
+        "slug":  "aster",
+        "name":  "Aster"
+    },
+    {
+        "slug":  "atlanta",
+        "name":  "Atlanta"
+    },
+    {
+        "slug":  "attache",
+        "name":  "Attache"
+    },
+    {
+        "slug":  "attache-economy",
+        "name":  "Attache Economy"
+    },
+    {
+        "slug":  "attache-selection",
+        "name":  "Attache Selection"
+    },
+    {
+        "slug":  "attomex",
+        "name":  "Attomex"
+    },
+    {
+        "slug":  "aura",
+        "name":  "Aura"
+    },
+    {
+        "slug":  "aurora",
+        "name":  "Aurora"
+    },
+    {
+        "slug":  "avery-zweckform",
+        "name":  "Avery-Zweckform"
+    },
+    {
+        "slug":  "aviora",
+        "name":  "Aviora"
+    },
+    {
+        "slug":  "a-vm",
+        "name":  "A-VM"
+    },
+    {
+        "slug":  "bagi",
+        "name":  "Bagi"
+    },
+    {
+        "slug":  "bantex",
+        "name":  "Bantex"
+    },
+    {
+        "slug":  "barry-callebaut-belgium-nv",
+        "name":  "BARRY CALLEBAUT BELGIUM NV"
+    },
+    {
+        "slug":  "bartek",
+        "name":  "Bartek"
+    },
+    {
+        "slug":  "beifa",
+        "name":  "Beifa"
+    },
+    {
+        "slug":  "bg",
+        "name":  "BG"
+    },
+    {
+        "slug":  "bibo",
+        "name":  "BIBO"
+    },
+    {
+        "slug":  "bigtech",
+        "name":  "Bigtech"
+    },
+    {
+        "slug":  "bimax",
+        "name":  "BiMax"
+    },
+    {
+        "slug":  "blitz",
+        "name":  "Blitz"
+    },
+    {
+        "slug":  "blumentag",
+        "name":  "Blumentag"
+    },
+    {
+        "slug":  "boardsys",
+        "name":  "BoardSYS"
+    },
+    {
+        "slug":  "bondibon",
+        "name":  "Bondibon"
+    },
+    {
+        "slug":  "bonfesto",
+        "name":  "Bonfesto"
+    },
+    {
+        "slug":  "bonomi",
+        "name":  "Bonomi"
+    },
+    {
+        "slug":  "boomzee",
+        "name":  "Boomzee"
+    },
+    {
+        "slug":  "borasco",
+        "name":  "Borasco"
+    },
+    {
+        "slug":  "bormioli-rocco",
+        "name":  "Bormioli Rocco"
+    },
+    {
+        "slug":  "boro-industrial-development-ltd",
+        "name":  "BORO INDUSTRIAL DEVELOPMENT LTD"
+    },
+    {
+        "slug":  "bouquet",
+        "name":  "Bouquet"
+    },
+    {
+        "slug":  "bravo",
+        "name":  "Bravo"
+    },
+    {
+        "slug":  "brother",
+        "name":  "Brother"
+    },
+    {
+        "slug":  "brunovisconti",
+        "name":  "BrunoVisconti®"
+    },
+    {
+        "slug":  "buro",
+        "name":  "Buro"
+    },
+    {
+        "slug":  "bushido",
+        "name":  "Bushido"
+    },
+    {
+        "slug":  "businesspack",
+        "name":  "BusinessPack"
+    },
+    {
+        "slug":  "businesspost",
+        "name":  "BusinessPost"
+    },
+    {
+        "slug":  "bvitech",
+        "name":  "BVItech"
+    },
+    {
+        "slug":  "cactus",
+        "name":  "Cactus"
+    },
+    {
+        "slug":  "cadence",
+        "name":  "Cadence"
+    },
+    {
+        "slug":  "canon",
+        "name":  "Canon"
+    },
+    {
+        "slug":  "canson",
+        "name":  "Canson"
+    },
+    {
+        "slug":  "caramella",
+        "name":  "Caramella"
+    },
+    {
+        "slug":  "caran-d-ache",
+        "name":  "Caran d’Ache"
+    },
+    {
+        "slug":  "caravaggio",
+        "name":  "Caravaggio"
+    },
+    {
+        "slug":  "carioca",
+        "name":  "Carioca"
+    },
+    {
+        "slug":  "carte-noire",
+        "name":  "Carte Noire"
+    },
+    {
+        "slug":  "cassida",
+        "name":  "Cassida"
+    },
+    {
+        "slug":  "cello",
+        "name":  "Cello"
+    },
+    {
+        "slug":  "chairman",
+        "name":  "Chairman"
+    },
+    {
+        "slug":  "chameleon-art-products",
+        "name":  "Chameleon Art Products"
+    },
+    {
+        "slug":  "cherry-mary",
+        "name":  "CHERRY MARY"
+    },
+    {
+        "slug":  "cherry-valley-gida-san-tic-ltd-sti",
+        "name":  "CHERRY VALLEY GIDA SAN.TIC.LTD.STI"
+    },
+    {
+        "slug":  "chirton",
+        "name":  "Chirton"
+    },
+    {
+        "slug":  "cif",
+        "name":  "CIF"
+    },
+    {
+        "slug":  "citizen",
+        "name":  "Citizen"
+    },
+    {
+        "slug":  "clairefontaine",
+        "name":  "Clairefontaine"
+    },
+    {
+        "slug":  "cleanlab",
+        "name":  "CleanLab"
+    },
+    {
+        "slug":  "clementoni",
+        "name":  "Clementoni"
+    },
+    {
+        "slug":  "coffesso",
+        "name":  "Coffesso"
+    },
+    {
+        "slug":  "coins",
+        "name":  "Coins"
+    },
+    {
+        "slug":  "colorino",
+        "name":  "Colorino"
+    },
+    {
+        "slug":  "colorio",
+        "name":  "Colorio"
+    },
+    {
+        "slug":  "colour-paper",
+        "name":  "Colour Paper"
+    },
+    {
+        "slug":  "command",
+        "name":  "Command®"
+    },
+    {
+        "slug":  "cooking",
+        "name":  "CooKing"
+    },
+    {
+        "slug":  "copic",
+        "name":  "Copic"
+    },
+    {
+        "slug":  "corvina",
+        "name":  "Corvina"
+    },
+    {
+        "slug":  "craft-premier",
+        "name":  "Craft Premier"
+    },
+    {
+        "slug":  "craft-clay",
+        "name":  "Craft\u0026Clay"
+    },
+    {
+        "slug":  "cretacolor",
+        "name":  "Cretacolor"
+    },
+    {
+        "slug":  "cross",
+        "name":  "Cross"
+    },
+    {
+        "slug":  "crown",
+        "name":  "Crown"
+    },
+    {
+        "slug":  "d-morelli",
+        "name":  "D. Morelli"
+    },
+    {
+        "slug":  "dahle",
+        "name":  "Dahle"
+    },
+    {
+        "slug":  "daisy",
+        "name":  "Daisy"
+    },
+    {
+        "slug":  "das",
+        "name":  "DAS"
+    },
+    {
+        "slug":  "davici",
+        "name":  "Davici"
+    },
+    {
+        "slug":  "decadry",
+        "name":  "Decadry"
+    },
+    {
+        "slug":  "decobal",
+        "name":  "DECOBAL"
+    },
+    {
+        "slug":  "decola",
+        "name":  "Decola"
+    },
+    {
+        "slug":  "delfbrick",
+        "name":  "Delfbrick"
+    },
+    {
+        "slug":  "deli",
+        "name":  "Deli"
+    },
+    {
+        "slug":  "delta",
+        "name":  "Delta"
+    },
+    {
+        "slug":  "derwent",
+        "name":  "Derwent"
+    },
+    {
+        "slug":  "devente",
+        "name":  "deVENTE"
+    },
+    {
+        "slug":  "discover",
+        "name":  "Discover"
+    },
+    {
+        "slug":  "dobla-logistics-bvba",
+        "name":  "Dobla Logistics BVBA"
+    },
+    {
+        "slug":  "dolce-costo",
+        "name":  "Dolce Costo"
+    },
+    {
+        "slug":  "dolomit",
+        "name":  "Dolomit"
+    },
+    {
+        "slug":  "dolphin-innovations",
+        "name":  "Dolphin Innovations"
+    },
+    {
+        "slug":  "domestos",
+        "name":  "Domestos"
+    },
+    {
+        "slug":  "dp-craft",
+        "name":  "DP Craft"
+    },
+    {
+        "slug":  "dr-oetker",
+        "name":  "Dr.Oetker"
+    },
+    {
+        "slug":  "durable",
+        "name":  "Durable"
+    },
+    {
+        "slug":  "duracell",
+        "name":  "Duracell"
+    },
+    {
+        "slug":  "dymo",
+        "name":  "Dymo®"
+    },
+    {
+        "slug":  "easychair",
+        "name":  "EasyChair"
+    },
+    {
+        "slug":  "ecopost",
+        "name":  "Ecopost"
+    },
+    {
+        "slug":  "edding",
+        "name":  "Edding"
+    },
+    {
+        "slug":  "egoiste",
+        "name":  "Egoiste"
+    },
+    {
+        "slug":  "eleven",
+        "name":  "Eleven"
+    },
+    {
+        "slug":  "ellipse",
+        "name":  "Ellipse"
+    },
+    {
+        "slug":  "elmer-s",
+        "name":  "Elmer\u0027s"
+    },
+    {
+        "slug":  "empire",
+        "name":  "Empire"
+    },
+    {
+        "slug":  "epoximaxx",
+        "name":  "EpoximaxX"
+    },
+    {
+        "slug":  "escalada",
+        "name":  "Escalada"
+    },
+    {
+        "slug":  "esse",
+        "name":  "Esse"
+    },
+    {
+        "slug":  "esselte",
+        "name":  "Esselte"
+    },
+    {
+        "slug":  "evo",
+        "name":  "EVO"
+    },
+    {
+        "slug":  "exacompta",
+        "name":  "Exacompta"
+    },
+    {
+        "slug":  "expert-complete",
+        "name":  "Expert Complete"
+    },
+    {
+        "slug":  "express",
+        "name":  "Express"
+    },
+    {
+        "slug":  "extrapack",
+        "name":  "ExtraPack"
+    },
+    {
+        "slug":  "exxe",
+        "name":  "EXXE"
+    },
+    {
+        "slug":  "faber-castell",
+        "name":  "Faber-Castell"
+    },
+    {
+        "slug":  "fabriano",
+        "name":  "Fabriano"
+    },
+    {
+        "slug":  "faceart-academy",
+        "name":  "Faceart Academy"
+    },
+    {
+        "slug":  "falali",
+        "name":  "FALALI"
+    },
+    {
+        "slug":  "fellowes",
+        "name":  "Fellowes®"
+    },
+    {
+        "slug":  "filofax",
+        "name":  "Filofax"
+    },
+    {
+        "slug":  "fimo",
+        "name":  "Fimo"
+    },
+    {
+        "slug":  "fine-line",
+        "name":  "Fine Line"
+    },
+    {
+        "slug":  "fiorico",
+        "name":  "Fiorico"
+    },
+    {
+        "slug":  "fleur",
+        "name":  "Fleur"
+    },
+    {
+        "slug":  "fleur-design",
+        "name":  "Fleur Design"
+    },
+    {
+        "slug":  "flex-metal",
+        "name":  "Flex Metal"
+    },
+    {
+        "slug":  "flexstep",
+        "name":  "FLEXSTEP™"
+    },
+    {
+        "slug":  "flyer",
+        "name":  "Flyer"
+    },
+    {
+        "slug":  "folia",
+        "name":  "Folia"
+    },
+    {
+        "slug":  "food-colours",
+        "name":  "FOOD COLOURS"
+    },
+    {
+        "slug":  "formacia",
+        "name":  "Formacia"
+    },
+    {
+        "slug":  "forpost",
+        "name":  "ForPost"
+    },
+    {
+        "slug":  "foxy-gloves",
+        "name":  "Foxy-Gloves"
+    },
+    {
+        "slug":  "franklin-covey",
+        "name":  "Franklin Covey"
+    },
+    {
+        "slug":  "fun-kingdom",
+        "name":  "Fun Kingdom"
+    },
+    {
+        "slug":  "fundesk",
+        "name":  "FunDesk"
+    },
+    {
+        "slug":  "galaxy",
+        "name":  "Galaxy"
+    },
+    {
+        "slug":  "gallery",
+        "name":  "Gallery"
+    },
+    {
+        "slug":  "gamma",
+        "name":  "Gamma"
+    },
+    {
+        "slug":  "ganzo",
+        "name":  "Ganzo"
+    },
+    {
+        "slug":  "garantpost",
+        "name":  "Garantpost"
+    },
+    {
+        "slug":  "gbc",
+        "name":  "GBC"
+    },
+    {
+        "slug":  "gemar",
+        "name":  "Gemar"
+    },
+    {
+        "slug":  "geronimo",
+        "name":  "Geronimo"
+    },
+    {
+        "slug":  "girly",
+        "name":  "GIRLY"
+    },
+    {
+        "slug":  "globen",
+        "name":  "Globen"
+    },
+    {
+        "slug":  "goldring",
+        "name":  "Goldring"
+    },
+    {
+        "slug":  "good-sunrise",
+        "name":  "Good Sunrise"
+    },
+    {
+        "slug":  "gorgeous",
+        "name":  "Gorgeous"
+    },
+    {
+        "slug":  "gp",
+        "name":  "GP"
+    },
+    {
+        "slug":  "grabo-balloons",
+        "name":  "Grabo Balloons"
+    },
+    {
+        "slug":  "graf-von-faber-castell",
+        "name":  "Graf von Faber Castell"
+    },
+    {
+        "slug":  "grass",
+        "name":  "Grass"
+    },
+    {
+        "slug":  "griffin",
+        "name":  "Griffin"
+    },
+    {
+        "slug":  "grizzly",
+        "name":  "GRIZZLY"
+    },
+    {
+        "slug":  "guzman-food-service",
+        "name":  "GUZMAN Food Service"
+    },
+    {
+        "slug":  "hahnemuhle",
+        "name":  "Hahnemuhle"
+    },
+    {
+        "slug":  "hama",
+        "name":  "Hama"
+    },
+    {
+        "slug":  "han",
+        "name":  "HAN"
+    },
+    {
+        "slug":  "hasbro",
+        "name":  "Hasbro"
+    },
+    {
+        "slug":  "hebel-maul",
+        "name":  "Hebel Maul"
+    },
+    {
+        "slug":  "help",
+        "name":  "Help®"
+    },
+    {
+        "slug":  "henkel",
+        "name":  "Henkel"
+    },
+    {
+        "slug":  "herlitz",
+        "name":  "Herlitz"
+    },
+    {
+        "slug":  "hewlett-packard",
+        "name":  "Hewlett-Packard"
+    },
+    {
+        "slug":  "hi-float",
+        "name":  "Hi-float"
+    },
+    {
+        "slug":  "himawari",
+        "name":  "HIMAWARI"
+    },
+    {
+        "slug":  "hive",
+        "name":  "Hive"
+    },
+    {
+        "slug":  "hobbius",
+        "name":  "Hobbius"
+    },
+    {
+        "slug":  "hobby-time",
+        "name":  "Hobby Time"
+    },
+    {
+        "slug":  "hobbybe",
+        "name":  "HobbyBe"
+    },
+    {
+        "slug":  "holiday-decor",
+        "name":  "Holiday Decor"
+    },
+    {
+        "slug":  "holiday-classics",
+        "name":  "Holiday-Classics"
+    },
+    {
+        "slug":  "hong-tai-kee-foods",
+        "name":  "Hong Tai Kee Foods"
+    },
+    {
+        "slug":  "hyundai",
+        "name":  "Hyundai"
+    },
+    {
+        "slug":  "i-c-a-s-r-l",
+        "name":  "I.C.A. S.r.l."
+    },
+    {
+        "slug":  "il-bakery",
+        "name":  "IL Bakery"
+    },
+    {
+        "slug":  "ilikegift",
+        "name":  "ILikeGift"
+    },
+    {
+        "slug":  "infolio",
+        "name":  "Infolio"
+    },
+    {
+        "slug":  "international-paper",
+        "name":  "International Paper"
+    },
+    {
+        "slug":  "inter-step",
+        "name":  "Inter-Step"
+    },
+    {
+        "slug":  "intex",
+        "name":  "Intex"
+    },
+    {
+        "slug":  "intro",
+        "name":  "Intro"
+    },
+    {
+        "slug":  "iq-zabiaka",
+        "name":  "IQ-ZABIAKA"
+    },
+    {
+        "slug":  "irca-s-p-a",
+        "name":  "Irca S.p.a."
+    },
+    {
+        "slug":  "jacobs",
+        "name":  "Jacobs"
+    },
+    {
+        "slug":  "jacquard",
+        "name":  "Jacquard"
+    },
+    {
+        "slug":  "jardin",
+        "name":  "Jardin"
+    },
+    {
+        "slug":  "jolly",
+        "name":  "Jolly"
+    },
+    {
+        "slug":  "jovi",
+        "name":  "Jovi"
+    },
+    {
+        "slug":  "julius-meinl",
+        "name":  "Julius Meinl"
+    },
+    {
+        "slug":  "kingston",
+        "name":  "Kingston"
+    },
+    {
+        "slug":  "klart",
+        "name":  "Klart"
+    },
+    {
+        "slug":  "klesto",
+        "name":  "Klesto"
+    },
+    {
+        "slug":  "klondike-1896",
+        "name":  "Klondike 1896®"
+    },
+    {
+        "slug":  "koda",
+        "name":  "KODA"
+    },
+    {
+        "slug":  "kodak",
+        "name":  "Kodak"
+    },
+    {
+        "slug":  "koh-i-noor",
+        "name":  "Koh-I-Noor"
+    },
+    {
+        "slug":  "komfi",
+        "name":  "Komfi"
+    },
+    {
+        "slug":  "konfinetta",
+        "name":  "Konfinetta"
+    },
+    {
+        "slug":  "kores",
+        "name":  "Kores"
+    },
+    {
+        "slug":  "korinitta",
+        "name":  "Korinitta"
+    },
+    {
+        "slug":  "kroyter",
+        "name":  "Kroyter"
+    },
+    {
+        "slug":  "kum",
+        "name":  "KUM"
+    },
+    {
+        "slug":  "kw-trio",
+        "name":  "KW-Trio"
+    },
+    {
+        "slug":  "lamark",
+        "name":  "Lamark"
+    },
+    {
+        "slug":  "lamirel",
+        "name":  "Lamirel"
+    },
+    {
+        "slug":  "lana",
+        "name":  "Lana"
+    },
+    {
+        "slug":  "laped",
+        "name":  "Laped"
+    },
+    {
+        "slug":  "la-torta",
+        "name":  "La-Torta"
+    },
+    {
+        "slug":  "lavazza",
+        "name":  "Lavazza"
+    },
+    {
+        "slug":  "led-lenser",
+        "name":  "LED Lenser"
+    },
+    {
+        "slug":  "lega-master",
+        "name":  "Lega Master"
+    },
+    {
+        "slug":  "leitz",
+        "name":  "Leitz"
+    },
+    {
+        "slug":  "leti",
+        "name":  "LETI"
+    },
+    {
+        "slug":  "lexmark",
+        "name":  "Lexmark"
+    },
+    {
+        "slug":  "listoff",
+        "name":  "Listoff®"
+    },
+    {
+        "slug":  "logitech",
+        "name":  "Logitech"
+    },
+    {
+        "slug":  "lol-pop",
+        "name":  "Lol\u0026Pop"
+    },
+    {
+        "slug":  "lomond",
+        "name":  "Lomond"
+    },
+    {
+        "slug":  "love2art",
+        "name":  "Love2art"
+    },
+    {
+        "slug":  "luazon-lighting",
+        "name":  "Luazon Lighting"
+    },
+    {
+        "slug":  "lubimova",
+        "name":  "Lubimova"
+    },
+    {
+        "slug":  "lumien",
+        "name":  "Lumien"
+    },
+    {
+        "slug":  "luscan",
+        "name":  "Luscan"
+    },
+    {
+        "slug":  "lyra",
+        "name":  "Lyra"
+    },
+    {
+        "slug":  "mabef",
+        "name":  "Mabef"
+    },
+    {
+        "slug":  "mag",
+        "name":  "MAG"
+    },
+    {
+        "slug":  "magistro",
+        "name":  "Magistro"
+    },
+    {
+        "slug":  "magtaller",
+        "name":  "MagTaller"
+    },
+    {
+        "slug":  "maki",
+        "name":  "Maki"
+    },
+    {
+        "slug":  "makins",
+        "name":  "Makins"
+    },
+    {
+        "slug":  "malamalama",
+        "name":  "Malamalama"
+    },
+    {
+        "slug":  "maped",
+        "name":  "Maped"
+    },
+    {
+        "slug":  "marabu",
+        "name":  "Marabu"
+    },
+    {
+        "slug":  "mariner",
+        "name":  "Mariner"
+    },
+    {
+        "slug":  "marinex",
+        "name":  "Marinex"
+    },
+    {
+        "slug":  "martellato-s-r-l",
+        "name":  "Martellato S.r.l"
+    },
+    {
+        "slug":  "master",
+        "name":  "MASTER"
+    },
+    {
+        "slug":  "masterbag",
+        "name":  "Masterbag"
+    },
+    {
+        "slug":  "max-christmas",
+        "name":  "Max Christmas"
+    },
+    {
+        "slug":  "mediok",
+        "name":  "MediOk"
+    },
+    {
+        "slug":  "merry-green",
+        "name":  "Merry Green"
+    },
+    {
+        "slug":  "meshu",
+        "name":  "MESHU"
+    },
+    {
+        "slug":  "miadolla",
+        "name":  "Miadolla"
+    },
+    {
+        "slug":  "micron",
+        "name":  "Micron"
+    },
+    {
+        "slug":  "milan",
+        "name":  "Milan"
+    },
+    {
+        "slug":  "milotabox",
+        "name":  "MilotaBox"
+    },
+    {
+        "slug":  "mioki",
+        "name":  "Mioki"
+    },
+    {
+        "slug":  "mixie",
+        "name":  "Mixie"
+    },
+    {
+        "slug":  "moleskine",
+        "name":  "Moleskine®"
+    },
+    {
+        "slug":  "mondi-business-paper",
+        "name":  "Mondi Business Paper"
+    },
+    {
+        "slug":  "montana-colors",
+        "name":  "Montana Colors"
+    },
+    {
+        "slug":  "motex",
+        "name":  "MoTEX"
+    },
+    {
+        "slug":  "mozabrick",
+        "name":  "Mozabrick"
+    },
+    {
+        "slug":  "mr-carving",
+        "name":  "Mr. Carving"
+    },
+    {
+        "slug":  "mr-flavor",
+        "name":  "Mr.Flavor"
+    },
+    {
+        "slug":  "mr-painter",
+        "name":  "Mr.Painter"
+    },
+    {
+        "slug":  "multipack",
+        "name":  "MultiPack"
+    },
+    {
+        "slug":  "mungyo",
+        "name":  "Mungyo"
+    },
+    {
+        "slug":  "ndplay",
+        "name":  "NDplay"
+    },
+    {
+        "slug":  "nextool",
+        "name":  "Nextool"
+    },
+    {
+        "slug":  "nite-ize",
+        "name":  "Nite Ize"
+    },
+    {
+        "slug":  "nitrylex",
+        "name":  "Nitrylex"
+    },
+    {
+        "slug":  "nobo",
+        "name":  "Nobo"
+    },
+    {
+        "slug":  "noris",
+        "name":  "Noris"
+    },
+    {
+        "slug":  "nova-roll",
+        "name":  "Nova Roll®"
+    },
+    {
+        "slug":  "novacart",
+        "name":  "Novacart"
+    },
+    {
+        "slug":  "novus",
+        "name":  "Novus"
+    },
+    {
+        "slug":  "nuts-bank",
+        "name":  "Nuts Bank"
+    },
+    {
+        "slug":  "nuts-for-life",
+        "name":  "NUTS for LIFE"
+    },
+    {
+        "slug":  "office-kit",
+        "name":  "Office Kit"
+    },
+    {
+        "slug":  "officepost",
+        "name":  "OfficePost"
+    },
+    {
+        "slug":  "olfa",
+        "name":  "Olfa"
+    },
+    {
+        "slug":  "olight",
+        "name":  "Olight"
+    },
+    {
+        "slug":  "onix",
+        "name":  "Onix"
+    },
+    {
+        "slug":  "open",
+        "name":  "OPEN"
+    },
+    {
+        "slug":  "origami",
+        "name":  "Origami"
+    },
+    {
+        "slug":  "ovalette",
+        "name":  "Ovalette"
+    },
+    {
+        "slug":  "packpost",
+        "name":  "PackPost"
+    },
+    {
+        "slug":  "paclan",
+        "name":  "Paclan"
+    },
+    {
+        "slug":  "paintboy",
+        "name":  "Paintboy"
+    },
+    {
+        "slug":  "palex",
+        "name":  "Palex"
+    },
+    {
+        "slug":  "panasonic",
+        "name":  "Panasonic"
+    },
+    {
+        "slug":  "paper-art",
+        "name":  "Paper Art"
+    },
+    {
+        "slug":  "paper-mate",
+        "name":  "Paper Mate"
+    },
+    {
+        "slug":  "paperblanks",
+        "name":  "Paperblanks"
+    },
+    {
+        "slug":  "paperone",
+        "name":  "PaperOne™"
+    },
+    {
+        "slug":  "parker",
+        "name":  "Parker"
+    },
+    {
+        "slug":  "paterra",
+        "name":  "Paterra"
+    },
+    {
+        "slug":  "pavoni-italia-s-p-a",
+        "name":  "Pavoni Italia S.p.a."
+    },
+    {
+        "slug":  "pebeo",
+        "name":  "Pebeo"
+    },
+    {
+        "slug":  "pelikan",
+        "name":  "Pelikan"
+    },
+    {
+        "slug":  "pentart",
+        "name":  "Pentart"
+    },
+    {
+        "slug":  "pentel",
+        "name":  "Pentel"
+    },
+    {
+        "slug":  "peppy",
+        "name":  "Peppy"
+    },
+    {
+        "slug":  "persil",
+        "name":  "Persil"
+    },
+    {
+        "slug":  "philips",
+        "name":  "Philips"
+    },
+    {
+        "slug":  "piazza",
+        "name":  "Piazza"
+    },
+    {
+        "slug":  "pierre-cardin",
+        "name":  "Pierre Cardin"
+    },
+    {
+        "slug":  "pilot",
+        "name":  "Pilot"
+    },
+    {
+        "slug":  "play-doh",
+        "name":  "Play Doh"
+    },
+    {
+        "slug":  "plma",
+        "name":  "Plma"
+    },
+    {
+        "slug":  "pol-mak",
+        "name":  "Pol-Mak"
+    },
+    {
+        "slug":  "postfix",
+        "name":  "PostFix"
+    },
+    {
+        "slug":  "post-it",
+        "name":  "Post-it®"
+    },
+    {
+        "slug":  "primteks-plus",
+        "name":  "Primteks Plus"
+    },
+    {
+        "slug":  "pro",
+        "name":  "PRO"
+    },
+    {
+        "slug":  "procos",
+        "name":  "Procos"
+    },
+    {
+        "slug":  "procter-gamble",
+        "name":  "Procter\u0026Gamble"
+    },
+    {
+        "slug":  "proff",
+        "name":  "Proff"
+    },
+    {
+        "slug":  "proff-puree",
+        "name":  "Proff Puree"
+    },
+    {
+        "slug":  "profi-office",
+        "name":  "Profi Office"
+    },
+    {
+        "slug":  "promega",
+        "name":  "ProMega"
+    },
+    {
+        "slug":  "promega-engineer",
+        "name":  "ProMEGA Engineer"
+    },
+    {
+        "slug":  "promega-fax",
+        "name":  "ProMega Fax"
+    },
+    {
+        "slug":  "promega-jet",
+        "name":  "ProMEGA jet"
+    },
+    {
+        "slug":  "promega-label",
+        "name":  "ProMEGA Label"
+    },
+    {
+        "slug":  "promega-office",
+        "name":  "ProMega Office"
+    },
+    {
+        "slug":  "protege",
+        "name":  "Protege"
+    },
+    {
+        "slug":  "pulse",
+        "name":  "Pulse"
+    },
+    {
+        "slug":  "qbrix",
+        "name":  "Qbrix"
+    },
+    {
+        "slug":  "r-blake",
+        "name":  "R.Blake"
+    },
+    {
+        "slug":  "rapesco",
+        "name":  "Rapesco"
+    },
+    {
+        "slug":  "rapid",
+        "name":  "Rapid"
+    },
+    {
+        "slug":  "reiner",
+        "name":  "Reiner"
+    },
+    {
+        "slug":  "relaxika",
+        "name":  "Relaxika"
+    },
+    {
+        "slug":  "renkalik",
+        "name":  "Renkalik"
+    },
+    {
+        "slug":  "rezark",
+        "name":  "Rezark"
+    },
+    {
+        "slug":  "richard",
+        "name":  "Richard"
+    },
+    {
+        "slug":  "rivacase",
+        "name":  "RivaCase®"
+    },
+    {
+        "slug":  "rocada",
+        "name":  "Rocada"
+    },
+    {
+        "slug":  "royal-langnickel",
+        "name":  "Royal Langnickel"
+    },
+    {
+        "slug":  "royal-talens",
+        "name":  "Royal Talens"
+    },
+    {
+        "slug":  "sadipal",
+        "name":  "Sadipal"
+    },
+    {
+        "slug":  "sakura",
+        "name":  "Sakura"
+    },
+    {
+        "slug":  "samsung",
+        "name":  "Samsung"
+    },
+    {
+        "slug":  "sandra",
+        "name":  "Sandra"
+    },
+    {
+        "slug":  "sanneng-bakeware-corporation",
+        "name":  "Sanneng Bakeware Corporation"
+    },
+    {
+        "slug":  "satoshi",
+        "name":  "SATOSHI"
+    },
+    {
+        "slug":  "sc-johnson",
+        "name":  "SC Johnson"
+    },
+    {
+        "slug":  "scarlett",
+        "name":  "Scarlett"
+    },
+    {
+        "slug":  "s-chief",
+        "name":  "S-CHIEF"
+    },
+    {
+        "slug":  "schneider",
+        "name":  "Schneider"
+    },
+    {
+        "slug":  "schneiders",
+        "name":  "Schneiders"
+    },
+    {
+        "slug":  "scotch",
+        "name":  "Scotch®"
+    },
+    {
+        "slug":  "sempertex",
+        "name":  "Sempertex"
+    },
+    {
+        "slug":  "sensormatic",
+        "name":  "Sensormatic"
+    },
+    {
+        "slug":  "seventeen",
+        "name":  "Seventeen"
+    },
+    {
+        "slug":  "sharpie",
+        "name":  "Sharpie®"
+    },
+    {
+        "slug":  "shennun",
+        "name":  "Shennun"
+    },
+    {
+        "slug":  "shense",
+        "name":  "Shense"
+    },
+    {
+        "slug":  "sigurd",
+        "name":  "Sigurd"
+    },
+    {
+        "slug":  "silicon-power",
+        "name":  "Silicon Power"
+    },
+    {
+        "slug":  "silikolove",
+        "name":  "Silikolove"
+    },
+    {
+        "slug":  "silikomart-s-r-l",
+        "name":  "Silikomart S.r.l."
+    },
+    {
+        "slug":  "sima-land-home",
+        "name":  "Sima-Land Home"
+    },
+    {
+        "slug":  "sketchmarker",
+        "name":  "Sketchmarker"
+    },
+    {
+        "slug":  "sky",
+        "name":  "Sky"
+    },
+    {
+        "slug":  "skyglory",
+        "name":  "Skyglory"
+    },
+    {
+        "slug":  "snazaroo",
+        "name":  "Snazaroo"
+    },
+    {
+        "slug":  "soffione",
+        "name":  "Soffione"
+    },
+    {
+        "slug":  "sparta",
+        "name":  "Sparta"
+    },
+    {
+        "slug":  "spin-clean",
+        "name":  "Spin\u0026Clean"
+    },
+    {
+        "slug":  "splash",
+        "name":  "SPLASH"
+    },
+    {
+        "slug":  "stamperia",
+        "name":  "Stamperia"
+    },
+    {
+        "slug":  "status-home",
+        "name":  "Status Home"
+    },
+    {
+        "slug":  "stilerra",
+        "name":  "Stilerra"
+    },
+    {
+        "slug":  "stylefile",
+        "name":  "Stylefile"
+    },
+    {
+        "slug":  "suominen",
+        "name":  "Suominen"
+    },
+    {
+        "slug":  "super-topper",
+        "name":  "Super Topper"
+    },
+    {
+        "slug":  "svip",
+        "name":  "Svip"
+    },
+    {
+        "slug":  "sweetmm",
+        "name":  "Sweetmm"
+    },
+    {
+        "slug":  "swensa",
+        "name":  "Swensa"
+    },
+    {
+        "slug":  "swissgear",
+        "name":  "Swissgear®"
+    },
+    {
+        "slug":  "synergetic",
+        "name":  "Synergetic"
+    },
+    {
+        "slug":  "sysmax",
+        "name":  "Sysmax"
+    },
+    {
+        "slug":  "tag",
+        "name":  "TAG"
+    },
+    {
+        "slug":  "the-bridge",
+        "name":  "The Bridge"
+    },
+    {
+        "slug":  "thermos",
+        "name":  "Thermos®"
+    },
+    {
+        "slug":  "timberlicious",
+        "name":  "Timberlicious"
+    },
+    {
+        "slug":  "tinta-viva-hobby",
+        "name":  "Tinta Viva Hobby"
+    },
+    {
+        "slug":  "top-glove",
+        "name":  "Top Glove"
+    },
+    {
+        "slug":  "topfort",
+        "name":  "Topfort"
+    },
+    {
+        "slug":  "torber",
+        "name":  "Torber"
+    },
+    {
+        "slug":  "tork",
+        "name":  "Tork"
+    },
+    {
+        "slug":  "transcend",
+        "name":  "Transcend"
+    },
+    {
+        "slug":  "trodat",
+        "name":  "Trodat"
+    },
+    {
+        "slug":  "uni-mitsubishi-pencil",
+        "name":  "Uni Mitsubishi Pencil"
+    },
+    {
+        "slug":  "unibob",
+        "name":  "UNIBOB®"
+    },
+    {
+        "slug":  "uniel",
+        "name":  "Uniel"
+    },
+    {
+        "slug":  "unilever",
+        "name":  "Unilever"
+    },
+    {
+        "slug":  "unnika-land",
+        "name":  "Unnika land®"
+    },
+    {
+        "slug":  "unomax",
+        "name":  "Unomax"
+    },
+    {
+        "slug":  "upak-land",
+        "name":  "Upak Land"
+    },
+    {
+        "slug":  "utfc",
+        "name":  "UTFC"
+    },
+    {
+        "slug":  "vell",
+        "name":  "Vell"
+    },
+    {
+        "slug":  "verbatim",
+        "name":  "Verbatim"
+    },
+    {
+        "slug":  "via-terra",
+        "name":  "Via Terra"
+    },
+    {
+        "slug":  "victorinox",
+        "name":  "Victorinox"
+    },
+    {
+        "slug":  "vigar",
+        "name":  "Vigar"
+    },
+    {
+        "slug":  "vileda",
+        "name":  "Vileda"
+    },
+    {
+        "slug":  "villa-verde",
+        "name":  "Villa Verde"
+    },
+    {
+        "slug":  "visconti",
+        "name":  "Visconti"
+    },
+    {
+        "slug":  "vista-artista",
+        "name":  "Vista-Artista"
+    },
+    {
+        "slug":  "vitto",
+        "name":  "Vitto"
+    },
+    {
+        "slug":  "waterman",
+        "name":  "Waterman"
+    },
+    {
+        "slug":  "wenger",
+        "name":  "Wenger"
+    },
+    {
+        "slug":  "winsor-newton",
+        "name":  "Winsor\u0026Newton"
+    },
+    {
+        "slug":  "winter-wings",
+        "name":  "Winter Wings"
+    },
+    {
+        "slug":  "woodmax",
+        "name":  "WoodMax"
+    },
+    {
+        "slug":  "xerox",
+        "name":  "Xerox"
+    },
+    {
+        "slug":  "your-nut",
+        "name":  "Your nut"
+    },
+    {
+        "slug":  "zebra",
+        "name":  "Zebra"
+    },
+    {
+        "slug":  "zephyr",
+        "name":  "Zephyr"
+    },
+    {
+        "slug":  "zewa",
+        "name":  "Zewa"
+    },
+    {
+        "slug":  "zippo",
+        "name":  "Zippo"
+    },
+    {
+        "slug":  "zlatka",
+        "name":  "Zlatka"
+    },
+    {
+        "slug":  "zoffoli-geographica",
+        "name":  "Zoffoli Geographica"
+    },
+    {
+        "slug":  "zombie",
+        "name":  "Zombie"
+    },
+    {
+        "slug":  "авангард",
+        "name":  "Авангард"
+    },
+    {
+        "slug":  "агт-геоцентр",
+        "name":  "АГТ Геоцентр"
+    },
+    {
+        "slug":  "айрис-пресс",
+        "name":  "Айрис-пресс"
+    },
+    {
+        "slug":  "аква-колор",
+        "name":  "Аква-колор"
+    },
+    {
+        "slug":  "аквалон",
+        "name":  "Аквалон"
+    },
+    {
+        "slug":  "алекс",
+        "name":  "Алекс"
+    },
+    {
+        "slug":  "альбатрос",
+        "name":  "Альбатрос"
+    },
+    {
+        "slug":  "альт",
+        "name":  "Альт®"
+    },
+    {
+        "slug":  "альтер",
+        "name":  "Альтер"
+    },
+    {
+        "slug":  "арт-бэг",
+        "name":  "Арт Бэг"
+    },
+    {
+        "slug":  "арт-и-дизайн",
+        "name":  "Арт и Дизайн"
+    },
+    {
+        "slug":  "арт-узор",
+        "name":  "Арт Узор"
+    },
+    {
+        "slug":  "артекс-м",
+        "name":  "Артекс-М"
+    },
+    {
+        "slug":  "артефакт",
+        "name":  "Артефакт"
+    },
+    {
+        "slug":  "арт-ист",
+        "name":  "Арт-Ист"
+    },
+    {
+        "slug":  "арт-родник",
+        "name":  "АРТ-РОДНИК"
+    },
+    {
+        "slug":  "арханг",
+        "name":  "Арханг"
+    },
+    {
+        "slug":  "аст-издательство",
+        "name":  "АСТ Издательство"
+    },
+    {
+        "slug":  "атберг98",
+        "name":  "Атберг98"
+    },
+    {
+        "slug":  "бедак-ип",
+        "name":  "Бедак ИП"
+    },
+    {
+        "slug":  "белые-ночи",
+        "name":  "Белые Ночи"
+    },
+    {
+        "slug":  "бенилюкс",
+        "name":  "Бенилюкс"
+    },
+    {
+        "slug":  "биолан",
+        "name":  "Биолан"
+    },
+    {
+        "slug":  "бланкиздат",
+        "name":  "Бланкиздат"
+    },
+    {
+        "slug":  "бомбора-издательство",
+        "name":  "Бомбора Издательство"
+    },
+    {
+        "slug":  "буква-ленд",
+        "name":  "БУКВА-ЛЕНД"
+    },
+    {
+        "slug":  "бюрократ",
+        "name":  "Бюрократ"
+    },
+    {
+        "slug":  "веселуха",
+        "name":  "Веселуха"
+    },
+    {
+        "slug":  "веселый-праздник",
+        "name":  "Веселый Праздник"
+    },
+    {
+        "slug":  "веселый-роджер",
+        "name":  "Веселый Роджер"
+    },
+    {
+        "slug":  "взлп",
+        "name":  "ВЗЛП"
+    },
+    {
+        "slug":  "воскресенская-карандашная-фабрика",
+        "name":  "Воскресенская карандашная фабрика"
+    },
+    {
+        "slug":  "выбор-есть",
+        "name":  "Выбор есть"
+    },
+    {
+        "slug":  "гала-центр",
+        "name":  "Гала-центр"
+    },
+    {
+        "slug":  "гамма",
+        "name":  "Гамма"
+    },
+    {
+        "slug":  "гасзнак",
+        "name":  "ГАСЗНАК"
+    },
+    {
+        "slug":  "гк-горчаков",
+        "name":  "ГК Горчаков"
+    },
+    {
+        "slug":  "глобус",
+        "name":  "Глобус"
+    },
+    {
+        "slug":  "гознак",
+        "name":  "Гознак"
+    },
+    {
+        "slug":  "горчаков-гк",
+        "name":  "Горчаков ГК"
+    },
+    {
+        "slug":  "дарим-красиво",
+        "name":  "Дарим красиво"
+    },
+    {
+        "slug":  "дарите-счастье",
+        "name":  "Дарите счастье"
+    },
+    {
+        "slug":  "деловой-стандарт",
+        "name":  "Деловой Стандарт"
+    },
+    {
+        "slug":  "деталинк",
+        "name":  "ДЕТАЛИНК"
+    },
+    {
+        "slug":  "ди-эм-би",
+        "name":  "Ди Эм Би"
+    },
+    {
+        "slug":  "доляна",
+        "name":  "Доляна"
+    },
+    {
+        "slug":  "доступные-радости",
+        "name":  "Доступные Радости"
+    },
+    {
+        "slug":  "еврофлаг",
+        "name":  "Еврофлаг"
+    },
+    {
+        "slug":  "елочка",
+        "name":  "Елочка"
+    },
+    {
+        "slug":  "зебра",
+        "name":  "Зебра"
+    },
+    {
+        "slug":  "зимнее-волшебство",
+        "name":  "Зимнее волшебство"
+    },
+    {
+        "slug":  "зодиак",
+        "name":  "Зодиак"
+    },
+    {
+        "slug":  "империя-поздравлений",
+        "name":  "Империя поздравлений"
+    },
+    {
+        "slug":  "италика",
+        "name":  "Италика"
+    },
+    {
+        "slug":  "кадры-в-порядке",
+        "name":  "Кадры в порядке"
+    },
+    {
+        "slug":  "карпинский-в-и",
+        "name":  "Карпинский В.И."
+    },
+    {
+        "slug":  "каскад",
+        "name":  "Каскад"
+    },
+    {
+        "slug":  "кокос",
+        "name":  "КОКОС"
+    },
+    {
+        "slug":  "коммунар",
+        "name":  "Коммунар"
+    },
+    {
+        "slug":  "комус",
+        "name":  "Комус"
+    },
+    {
+        "slug":  "кондиpro",
+        "name":  "КондиPRO"
+    },
+    {
+        "slug":  "кондимир",
+        "name":  "КондиМир"
+    },
+    {
+        "slug":  "контэнт",
+        "name":  "Контэнт"
+    },
+    {
+        "slug":  "кузнечный-двор",
+        "name":  "Кузнечный Двор"
+    },
+    {
+        "slug":  "кухня-3d-печати",
+        "name":  "Кухня 3D печати"
+    },
+    {
+        "slug":  "ладога",
+        "name":  "Ладога"
+    },
+    {
+        "slug":  "лакарт-дизайн",
+        "name":  "Лакарт Дизайн"
+    },
+    {
+        "slug":  "лас-играс",
+        "name":  "Лас Играс"
+    },
+    {
+        "slug":  "лео",
+        "name":  "Лео"
+    },
+    {
+        "slug":  "лепа",
+        "name":  "Лепа"
+    },
+    {
+        "slug":  "лесная-мастерская",
+        "name":  "Лесная мастерская"
+    },
+    {
+        "slug":  "лилия-холдинг",
+        "name":  "Лилия Холдинг"
+    },
+    {
+        "slug":  "льдинка",
+        "name":  "Льдинка"
+    },
+    {
+        "slug":  "малевичъ",
+        "name":  "Малевичъ"
+    },
+    {
+        "slug":  "манн-иванов-и-фербер",
+        "name":  "Манн, Иванов и Фербер"
+    },
+    {
+        "slug":  "мануфактура-арт-керамики",
+        "name":  "Мануфактура Арт Керамики"
+    },
+    {
+        "slug":  "мастер-класс",
+        "name":  "Мастер Класс"
+    },
+    {
+        "slug":  "мастер-класс-2",
+        "name":  "Мастер-Класс"
+    },
+    {
+        "slug":  "мастерская-кондитерских-насадок-тюльпан",
+        "name":  "Мастерская Кондитерских Насадок Тюльпан"
+    },
+    {
+        "slug":  "мастерская-экорше",
+        "name":  "Мастерская Экорше"
+    },
+    {
+        "slug":  "метта",
+        "name":  "Метта"
+    },
+    {
+        "slug":  "мир-пластиковых-форм",
+        "name":  "Мир Пластиковых Форм"
+    },
+    {
+        "slug":  "мир-поздравлений",
+        "name":  "Мир Поздравлений"
+    },
+    {
+        "slug":  "мир-упаковки",
+        "name":  "Мир упаковки"
+    },
+    {
+        "slug":  "мульти-пульти",
+        "name":  "Мульти-Пульти"
+    },
+    {
+        "slug":  "мякиши",
+        "name":  "Мякиши"
+    },
+    {
+        "slug":  "невская-палитра",
+        "name":  "Невская палитра"
+    },
+    {
+        "slug":  "негоциант",
+        "name":  "Негоциант"
+    },
+    {
+        "slug":  "новотрейд",
+        "name":  "Новотрейд"
+    },
+    {
+        "slug":  "новый-мир",
+        "name":  "Новый мир"
+    },
+    {
+        "slug":  "нордпласт",
+        "name":  "Нордпласт"
+    },
+    {
+        "slug":  "оклик",
+        "name":  "Оклик"
+    },
+    {
+        "slug":  "окские-ножи",
+        "name":  "Окские ножи"
+    },
+    {
+        "slug":  "омский-свечной-завод",
+        "name":  "Омский свечной завод"
+    },
+    {
+        "slug":  "ореховые-истории",
+        "name":  "Ореховые истории"
+    },
+    {
+        "slug":  "открытая-планета",
+        "name":  "Открытая планета"
+    },
+    {
+        "slug":  "офис-лидер",
+        "name":  "Офис лидер"
+    },
+    {
+        "slug":  "питер-издательский-дом",
+        "name":  "Питер Издательский дом"
+    },
+    {
+        "slug":  "пластиндустрия",
+        "name":  "Пластиндустрия"
+    },
+    {
+        "slug":  "поделкин",
+        "name":  "Поделкин"
+    },
+    {
+        "slug":  "поделкин-engino",
+        "name":  "Поделкин\u0026Engino"
+    },
+    {
+        "slug":  "подольск-арт-центр",
+        "name":  "Подольск-Арт Центр"
+    },
+    {
+        "slug":  "полином",
+        "name":  "Полином"
+    },
+    {
+        "slug":  "праздник",
+        "name":  "Праздник"
+    },
+    {
+        "slug":  "практик",
+        "name":  "Практик"
+    },
+    {
+        "slug":  "промысел",
+        "name":  "Промысел"
+    },
+    {
+        "slug":  "профклей",
+        "name":  "ПрофКлей"
+    },
+    {
+        "slug":  "радом",
+        "name":  "Радом"
+    },
+    {
+        "slug":  "радуга",
+        "name":  "Радуга"
+    },
+    {
+        "slug":  "родина-издательство",
+        "name":  "Родина Издательство"
+    },
+    {
+        "slug":  "росмен",
+        "name":  "Росмен"
+    },
+    {
+        "slug":  "рукартон",
+        "name":  "Рукартон"
+    },
+    {
+        "slug":  "рукоделие",
+        "name":  "Рукоделие"
+    },
+    {
+        "slug":  "русская-матрешка",
+        "name":  "Русская Матрешка"
+    },
+    {
+        "slug":  "русские-кресла",
+        "name":  "Русские кресла"
+    },
+    {
+        "slug":  "русский",
+        "name":  "Русский"
+    },
+    {
+        "slug":  "русский-шар",
+        "name":  "Русский шар"
+    },
+    {
+        "slug":  "салют",
+        "name":  "Салют"
+    },
+    {
+        "slug":  "санокс",
+        "name":  "Санокс"
+    },
+    {
+        "slug":  "саф-нева",
+        "name":  "Саф-Нева"
+    },
+    {
+        "slug":  "сахалин-приамурские-ведомости",
+        "name":  "Сахалин-Приамурские ведомости"
+    },
+    {
+        "slug":  "светоч",
+        "name":  "Светоч"
+    },
+    {
+        "slug":  "север",
+        "name":  "Север"
+    },
+    {
+        "slug":  "сибирский-сувенир",
+        "name":  "Сибирский сувенир"
+    },
+    {
+        "slug":  "сила",
+        "name":  "Сила"
+    },
+    {
+        "slug":  "сима-ленд",
+        "name":  "Сима-Ленд"
+    },
+    {
+        "slug":  "симаопт",
+        "name":  "СимаОпт"
+    },
+    {
+        "slug":  "сноу-бум",
+        "name":  "Сноу Бум"
+    },
+    {
+        "slug":  "сомс",
+        "name":  "СомС"
+    },
+    {
+        "slug":  "сонет",
+        "name":  "Сонет"
+    },
+    {
+        "slug":  "стамм",
+        "name":  "СТАММ"
+    },
+    {
+        "slug":  "стиролпласт",
+        "name":  "Стиролпласт"
+    },
+    {
+        "slug":  "стихия",
+        "name":  "Стихия"
+    },
+    {
+        "slug":  "страна-карнавалия",
+        "name":  "Страна Карнавалия"
+    },
+    {
+        "slug":  "сувенир",
+        "name":  "Сувенир"
+    },
+    {
+        "slug":  "таир",
+        "name":  "Таир"
+    },
+    {
+        "slug":  "титан",
+        "name":  "Титан"
+    },
+    {
+        "slug":  "топ-продукт",
+        "name":  "Топ Продукт"
+    },
+    {
+        "slug":  "тортомастер",
+        "name":  "Тортомастер"
+    },
+    {
+        "slug":  "три-совы",
+        "name":  "ТРИ СОВЫ"
+    },
+    {
+        "slug":  "ульяновский-дом-печати",
+        "name":  "Ульяновский дом печати"
+    },
+    {
+        "slug":  "упакэко",
+        "name":  "УпакЭко"
+    },
+    {
+        "slug":  "учитель-канц",
+        "name":  "Учитель-канц"
+    },
+    {
+        "slug":  "фабрика-счастья",
+        "name":  "Фабрика счастья"
+    },
+    {
+        "slug":  "фабрика-театральной-косметики",
+        "name":  "Фабрика Театральной Косметики"
+    },
+    {
+        "slug":  "фабрика-упаковки",
+        "name":  "Фабрика Упаковки"
+    },
+    {
+        "slug":  "фаэтано",
+        "name":  "Фаэтано"
+    },
+    {
+        "slug":  "феникс",
+        "name":  "Феникс +"
+    },
+    {
+        "slug":  "феникс-презент",
+        "name":  "Феникс-Презент"
+    },
+    {
+        "slug":  "филькина-грамота",
+        "name":  "Филькина Грамота"
+    },
+    {
+        "slug":  "фом",
+        "name":  "ФОМ"
+    },
+    {
+        "slug":  "фотофон",
+        "name":  "Фотофон"
+    },
+    {
+        "slug":  "фрея",
+        "name":  "Фрея"
+    },
+    {
+        "slug":  "хамелеон",
+        "name":  "Хамелеон"
+    },
+    {
+        "slug":  "хлебсоль",
+        "name":  "ХлебСоль"
+    },
+    {
+        "slug":  "черновицкая-мебельная-фабрика",
+        "name":  "Черновицкая мебельная фабрика"
+    },
+    {
+        "slug":  "шибаланская-а-а",
+        "name":  "Шибаланская А.А."
+    },
+    {
+        "slug":  "шокомилк",
+        "name":  "Шокомилк"
+    },
+    {
+        "slug":  "эlakto",
+        "name":  "Эlakto"
+    },
+    {
+        "slug":  "эврика",
+        "name":  "Эврика"
+    },
+    {
+        "slug":  "экоколлекция",
+        "name":  "ЭкоКоллекция"
+    },
+    {
+        "slug":  "экопак",
+        "name":  "Экопак"
+    },
+    {
+        "slug":  "эксмо-издательство",
+        "name":  "Эксмо издательство"
+    },
+    {
+        "slug":  "эра",
+        "name":  "ЭРА"
+    },
+    {
+        "slug":  "юниопт",
+        "name":  "ЮниОпт"
+    }
+]

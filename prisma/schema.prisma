@@ -1,0 +1,265 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Category {
+  id          String     @id @default(cuid())
+  externalId  String?    @unique
+  slug        String     @unique
+  name        String
+  description String?
+  imageHint   String?
+  sortOrder   Int        @default(0)
+  parentId    String?
+  parent      Category?  @relation("CategoryTree", fields: [parentId], references: [id])
+  children    Category[] @relation("CategoryTree")
+  products    Product[]
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+}
+
+model Brand {
+  id          String    @id @default(cuid())
+  slug        String    @unique
+  name        String
+  description String?
+  sortOrder   Int       @default(0)
+  products    Product[]
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+model Product {
+  id            String     @id @default(cuid())
+  externalId    String?    @unique
+  slug          String     @unique
+  sku           String?
+  name          String
+  description   String
+  price         Int
+  oldPrice      Int?
+  stock         Int        @default(0)
+  unit          String     @default("шт")
+  brandName     String?
+  brandId       String?
+  brand         Brand?     @relation(fields: [brandId], references: [id])
+  imageHint     String?
+  imageUrl      String?
+  images        String     @default("[]")
+  featured      Boolean    @default(false)
+  isNew         Boolean    @default(false)
+  onSale        Boolean    @default(false)
+  active        Boolean    @default(true)
+  variantGroup  String?
+  variantLabel  String?
+  /// e.g. A4, A5
+  format        String?
+  /// e.g. Голубой
+  color         String?
+  ratingAvg     Float      @default(0)
+  ratingCount   Int        @default(0)
+  categoryId    String
+  category      Category   @relation(fields: [categoryId], references: [id])
+  orderItems    OrderItem[]
+  reviews       Review[]
+  favorites     Favorite[]
+  storeStocks   ProductStoreStock[]
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+
+  @@index([format])
+  @@index([color])
+}
+
+model Review {
+  id          String    @id @default(cuid())
+  productId   String
+  product     Product   @relation(fields: [productId], references: [id], onDelete: Cascade)
+  userId      String
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  rating      Int
+  body        String
+  /// PENDING | APPROVED | REJECTED
+  status      String    @default("PENDING")
+  moderatedAt DateTime?
+  createdAt   DateTime  @default(now())
+
+  @@unique([productId, userId])
+  @@index([status])
+}
+
+model Favorite {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  productId String
+  product   Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@unique([userId, productId])
+}
+
+model Banner {
+  id        String   @id @default(cuid())
+  title     String
+  subtitle  String?
+  href      String
+  tone      String   @default("yellow")
+  sortOrder Int      @default(0)
+  active    Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Store {
+  id              String   @id @default(cuid())
+  slug            String   @unique
+  name            String
+  address         String
+  phones          String
+  hours           String
+  corporatePhones String?
+  corporateHours  String?
+  description     String
+  mapEmbedUrl     String?
+  sortOrder       Int      @default(0)
+  stocks          ProductStoreStock[]
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model ProductStoreStock {
+  id        String  @id @default(cuid())
+  productId String
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  storeId   String
+  store     Store   @relation(fields: [storeId], references: [id], onDelete: Cascade)
+  stock     Int     @default(0)
+
+  @@unique([productId, storeId])
+  @@index([storeId])
+}
+
+model News {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  title       String
+  excerpt     String
+  body        String
+  coverImage  String?
+  publishedAt DateTime
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Document {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  title       String
+  description String?
+  fileName    String
+  fileUrl     String
+  sortOrder   Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Vacancy {
+  id           String   @id @default(cuid())
+  slug         String   @unique
+  title        String
+  salary       String?
+  schedule     String?
+  duties       String
+  requirements String
+  active       Boolean  @default(true)
+  sortOrder    Int      @default(0)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model User {
+  id           String     @id @default(cuid())
+  email        String     @unique
+  passwordHash String
+  name         String
+  phone        String?
+  companyName  String?
+  inn          String?
+  buyAsOrg     Boolean    @default(false)
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @updatedAt
+  orders       Order[]
+  reviews      Review[]
+  favorites    Favorite[]
+  resetTokens  PasswordResetToken[]
+}
+
+model PasswordResetToken {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  tokenHash String   @unique
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+}
+
+model Feedback {
+  id        String   @id @default(cuid())
+  category  String
+  name      String
+  email     String
+  message   String
+  createdAt DateTime @default(now())
+}
+
+model JobApplication {
+  id          String   @id @default(cuid())
+  vacancySlug String
+  fullName    String
+  email       String
+  education   String
+  contacts    String
+  experience  String
+  extra       String?
+  createdAt   DateTime @default(now())
+}
+
+model Order {
+  id            String      @id @default(cuid())
+  number        String      @unique
+  userId        String?
+  user          User?       @relation(fields: [userId], references: [id])
+  customerName  String
+  customerPhone String
+  customerEmail String?
+  companyName   String?
+  inn           String?
+  comment       String?
+  fulfillment   String      @default("pickup")
+  storeSlug     String?
+  deliveryAddress String?
+  status        String      @default("new")
+  total         Int
+  items         OrderItem[]
+  createdAt     DateTime    @default(now())
+  updatedAt     DateTime    @updatedAt
+}
+
+model OrderItem {
+  id        String  @id @default(cuid())
+  orderId   String
+  order     Order   @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  productId String
+  product   Product @relation(fields: [productId], references: [id])
+  name      String
+  price     Int
+  quantity  Int
+}

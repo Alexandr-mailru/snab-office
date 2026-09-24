@@ -1,0 +1,3005 @@
+[
+  {
+    "id": "833",
+    "name": "Товары для офиса",
+    "menuName": "Офис",
+    "slug": "tovary-dlya-ofisa-833",
+    "groups": [
+      {
+        "id": "1112",
+        "name": "Бумага и бумажные изделия",
+        "slug": "bumaga-i-bumazhnye-izdeliya-1112",
+        "children": [
+          {
+            "id": "1118",
+            "name": "Бумага для офисной техники",
+            "slug": "bumaga-dlya-ofisnoj-tehniki-1118",
+            "children": [
+              {
+                "id": "1121",
+                "name": "Бумага офисная",
+                "slug": "bumaga-ofisnaya-1121",
+                "children": []
+              },
+              {
+                "id": "1122",
+                "name": "Бумага для полноцветной печати",
+                "slug": "bumaga-dlya-polnotsvetnoy-pechati-1122",
+                "children": []
+              },
+              {
+                "id": "1123",
+                "name": "Бумага цветная",
+                "slug": "bumaga-tsvetnaya-1123",
+                "children": []
+              },
+              {
+                "id": "1124",
+                "name": "Бумага перфорированная",
+                "slug": "bumaga-perforirovannaya-1124",
+                "children": []
+              },
+              {
+                "id": "1125",
+                "name": "Материалы для широкоформатной печати",
+                "slug": "materialy-dlya-shirokoformatnoy-pechati-1125",
+                "children": []
+              },
+              {
+                "id": "1119",
+                "name": "Ролики бумажные",
+                "slug": "roliki-bumazhnye-1119",
+                "children": []
+              },
+              {
+                "id": "1126",
+                "name": "Фото бумага для струйной/лазерной печати",
+                "slug": "foto-bumaga-dlya-struynoy-lazernoy-pechati-1126",
+                "children": []
+              },
+              {
+                "id": "1127",
+                "name": "Факс бумага",
+                "slug": "faks-bumaga-1127",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1113",
+            "name": "Бумага для записей",
+            "slug": "bumaga-dlya-zapisej-1113",
+            "children": [
+              {
+                "id": "1114",
+                "name": "Кубы для записей",
+                "slug": "kuby-dlya-zapisey-1114",
+                "children": []
+              },
+              {
+                "id": "1115",
+                "name": "Липкие блоки, диспенсеры",
+                "slug": "lipkie-bloki-dispensery-1115",
+                "children": []
+              },
+              {
+                "id": "1116",
+                "name": "Липкие Z-блоки, диспенсеры",
+                "slug": "lipkie-z-bloki-dispensery-1116",
+                "children": []
+              },
+              {
+                "id": "1117",
+                "name": "Липкие блоки фигурные",
+                "slug": "lipkie-bloki-figurnye-1117",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1132",
+            "name": "Блокноты, тетради, записные книжки, книги учета",
+            "slug": "bloknoty-tetradi-zapisnye-knizhki-knigi-ucheta-1132",
+            "children": [
+              {
+                "id": "1133",
+                "name": "Блокноты",
+                "slug": "bloknoty-1133",
+                "children": []
+              },
+              {
+                "id": "1134",
+                "name": "Тетради",
+                "slug": "tetradi-1134",
+                "children": []
+              },
+              {
+                "id": "1135",
+                "name": "Записные книжки",
+                "slug": "zapisnye-knizhki-1135",
+                "children": []
+              },
+              {
+                "id": "1136",
+                "name": "Книги учета, регистрации, для записей",
+                "slug": "knigi-ucheta-registratsii-dlya-zapisey-1136",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1137",
+            "name": "Конверты, пакеты",
+            "slug": "konverty-pakety-1137",
+            "children": [
+              {
+                "id": "1139",
+                "name": "Конверты",
+                "slug": "konverty-1139",
+                "children": []
+              },
+              {
+                "id": "1140",
+                "name": "Пакеты",
+                "slug": "pakety-1140",
+                "children": []
+              },
+              {
+                "id": "1138",
+                "name": "Вскрыватели конвертов",
+                "slug": "vskryvateli-konvertov-1138",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1141",
+            "name": "Прочие бумажные изделия",
+            "slug": "prochie-bumazhnye-izdeliya-1141",
+            "children": [
+              {
+                "id": "1142",
+                "name": "Закладки, диспенсеры",
+                "slug": "zakladki-dispensery-1142",
+                "children": []
+              },
+              {
+                "id": "1143",
+                "name": "Бланки",
+                "slug": "blanki-1143",
+                "children": []
+              },
+              {
+                "id": "1144",
+                "name": "Дизайн бумага",
+                "slug": "dizayn-bumaga-1144",
+                "children": []
+              },
+              {
+                "id": "1146",
+                "name": "Копировальная бумага",
+                "slug": "kopirovalnaya-bumaga-1146",
+                "children": []
+              },
+              {
+                "id": "1120",
+                "name": "Бумага и материалы для черчения",
+                "slug": "bumaga-i-materialy-dlya-chercheniya-1120",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1128",
+            "name": "Этикетки и пленки",
+            "slug": "etiketki-i-plenki-1128",
+            "children": [
+              {
+                "id": "1129",
+                "name": "Этикетки",
+                "slug": "etiketki-1129",
+                "children": []
+              },
+              {
+                "id": "1130",
+                "name": "Этикетки CD/DVD",
+                "slug": "etiketki-cd-dvd-1130",
+                "children": []
+              },
+              {
+                "id": "1131",
+                "name": "Этикетки специализированные",
+                "slug": "etiketki-spetsializirovannye-1131",
+                "children": []
+              },
+              {
+                "id": "1108",
+                "name": "Бумага, пленка для подготовки презентаций",
+                "slug": "bumaga-plenka-dlya-podgotovki-prezentatsiy-1108",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1202",
+            "name": "Полиграфическая продукция",
+            "slug": "poligraficheskaya-produkciya-1202",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "957",
+        "name": "Письменные и чертежные принадлежности",
+        "slug": "pismennye-i-chertezhnye-prinadlezhnosti-957",
+        "children": [
+          {
+            "id": "1012",
+            "name": "Ручки, стержни шариковые",
+            "slug": "ruchki-sterzhni-sharikovye-1012",
+            "children": [
+              {
+                "id": "1013",
+                "name": "Ручки шариковые",
+                "slug": "ruchki-sharikovye-1013",
+                "children": []
+              },
+              {
+                "id": "1014",
+                "name": "Ручки шариковые автоматические",
+                "slug": "ruchki-sharikovye-avtomaticheskie-1014",
+                "children": []
+              },
+              {
+                "id": "1015",
+                "name": "Ручки шариковые на подставке",
+                "slug": "ruchki-sharikovye-na-podstavke-1015",
+                "children": []
+              },
+              {
+                "id": "1017",
+                "name": "Стержни шариковые",
+                "slug": "sterzhni-sharikovye-1017",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1008",
+            "name": "Ручки, стержни гелевые",
+            "slug": "ruchki-sterzhni-gelevye-1008",
+            "children": [
+              {
+                "id": "1009",
+                "name": "Ручки гелевые",
+                "slug": "ruchki-gelevye-1009",
+                "children": []
+              },
+              {
+                "id": "1010",
+                "name": "Ручки гелевые автоматические",
+                "slug": "ruchki-gelevye-avtomaticheskie-1010",
+                "children": []
+              },
+              {
+                "id": "1011",
+                "name": "Стержни гелевые",
+                "slug": "sterzhni-gelevye-1011",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "961",
+            "name": "Ручки на подставке",
+            "slug": "ruchki-na-podstavke-961",
+            "children": []
+          },
+          {
+            "id": "992",
+            "name": "Ручки капиллярные, роллеры, стержни",
+            "slug": "ruchki-kapillyarnye-rollery-sterzhni-992",
+            "children": [
+              {
+                "id": "993",
+                "name": "Ручки капиллярные",
+                "slug": "ruchki-kapillyarnye-993",
+                "children": []
+              },
+              {
+                "id": "994",
+                "name": "Роллеры",
+                "slug": "rollery-994",
+                "children": []
+              },
+              {
+                "id": "995",
+                "name": "Роллеры автоматические",
+                "slug": "rollery-avtomaticheskie-995",
+                "children": []
+              },
+              {
+                "id": "10773",
+                "name": "Стержни для роллеров",
+                "slug": "sterzhni-dlya-rollerov-10773",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4164",
+            "name": "Ручки перьевые",
+            "slug": "ruchki-perevye-4164",
+            "children": []
+          },
+          {
+            "id": "4165",
+            "name": "Наборы пишущих принадлежностей",
+            "slug": "nabory-pishuschih-prinadlezhnostej-4165",
+            "children": []
+          },
+          {
+            "id": "964",
+            "name": "Карандаши чернографитные",
+            "slug": "karandashi-chernografitnye-964",
+            "children": []
+          },
+          {
+            "id": "1002",
+            "name": "Карандаши автоматические",
+            "slug": "karandashi-avtomaticheskie-1002",
+            "children": [
+              {
+                "id": "1003",
+                "name": "Карандаши автоматические 0.2мм, 0.3мм",
+                "slug": "karandashi-avtomaticheskie-0-2mm-0-3mm-1003",
+                "children": []
+              },
+              {
+                "id": "1004",
+                "name": "Карандаши автоматические 0.5мм",
+                "slug": "karandashi-avtomaticheskie-0-5mm-1004",
+                "children": []
+              },
+              {
+                "id": "1005",
+                "name": "Карандаши автоматические 0.7мм",
+                "slug": "karandashi-avtomaticheskie-0-7mm-1005",
+                "children": []
+              },
+              {
+                "id": "1006",
+                "name": "Карандаши автоматические 0.9мм, 1.4мм",
+                "slug": "karandashi-avtomaticheskie-0-9mm-1-4mm-1006",
+                "children": []
+              },
+              {
+                "id": "1007",
+                "name": "Карандаши цанговые 2.0мм, 3.15мм",
+                "slug": "karandashi-tsangovye-2-0mm-3-15mm-1007",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "967",
+            "name": "Грифели",
+            "slug": "grifeli-967",
+            "children": [
+              {
+                "id": "968",
+                "name": "Грифели 0.2мм, 0.3мм",
+                "slug": "grifeli-0-2mm-0-3mm-968",
+                "children": []
+              },
+              {
+                "id": "969",
+                "name": "Грифели 0.5мм",
+                "slug": "grifeli-0-5mm-969",
+                "children": []
+              },
+              {
+                "id": "970",
+                "name": "Грифели 0.7мм",
+                "slug": "grifeli-0-7mm-970",
+                "children": []
+              },
+              {
+                "id": "971",
+                "name": "Грифели 0.9мм, 1.4мм, 2.0мм, 3.15мм",
+                "slug": "grifeli-0-9mm-1-4mm-2-0mm-3-15mm-971",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "959",
+            "name": "Карандаши специальные",
+            "slug": "karandashi-specialnye-959",
+            "children": []
+          },
+          {
+            "id": "996",
+            "name": "Точилки",
+            "slug": "tochilki-996",
+            "children": [
+              {
+                "id": "997",
+                "name": "Точилки 1 диаметр",
+                "slug": "tochilki-1-diametr-997",
+                "children": []
+              },
+              {
+                "id": "998",
+                "name": "Точилки 2 диаметра",
+                "slug": "tochilki-2-diametra-998",
+                "children": []
+              },
+              {
+                "id": "999",
+                "name": "Точилки 3 диаметра",
+                "slug": "tochilki-3-diametra-999",
+                "children": []
+              },
+              {
+                "id": "1000",
+                "name": "Точилки механические, электрические",
+                "slug": "tochilki-mehanicheskie-elektricheskie-1000",
+                "children": []
+              },
+              {
+                "id": "1001",
+                "name": "Точилки для грифелей",
+                "slug": "tochilki-dlya-grifeley-1001",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "973",
+            "name": "Ластики",
+            "slug": "lastiki-973",
+            "children": [
+              {
+                "id": "974",
+                "name": "Ластики для карандаша",
+                "slug": "lastiki-dlya-karandasha-974",
+                "children": []
+              },
+              {
+                "id": "975",
+                "name": "Ластики комбинированные",
+                "slug": "lastiki-kombinirovannye-975",
+                "children": []
+              },
+              {
+                "id": "976",
+                "name": "Ластики специальные",
+                "slug": "lastiki-spetsialnye-976",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2068",
+            "name": "Многофункциональные пишущие инструменты",
+            "slug": "mnogofunkcionalnye-pishuschie-instrumenty-2068",
+            "children": []
+          },
+          {
+            "id": "981",
+            "name": "Чертежные принадлежности",
+            "slug": "chertezhnye-prinadlezhnosti-981",
+            "children": [
+              {
+                "id": "982",
+                "name": "Линейки",
+                "slug": "lineyki-982",
+                "children": []
+              },
+              {
+                "id": "983",
+                "name": "Линейки специальные",
+                "slug": "lineyki-spetsialnye-983",
+                "children": []
+              },
+              {
+                "id": "984",
+                "name": "Транспортиры, угольники",
+                "slug": "transportiry-ugolniki-984",
+                "children": []
+              },
+              {
+                "id": "985",
+                "name": "Чертежные наборы",
+                "slug": "chertezhnye-nabory-985",
+                "children": []
+              },
+              {
+                "id": "986",
+                "name": "Трафареты, лекала",
+                "slug": "trafarety-lekala-986",
+                "children": []
+              },
+              {
+                "id": "987",
+                "name": "Рейсшины",
+                "slug": "reysshiny-987",
+                "children": []
+              },
+              {
+                "id": "989",
+                "name": "Инструменты для черчения",
+                "slug": "instrumenty-dlya-chercheniya-989",
+                "children": []
+              },
+              {
+                "id": "990",
+                "name": "Чертежные доски",
+                "slug": "chertezhnye-doski-990",
+                "children": []
+              },
+              {
+                "id": "991",
+                "name": "Тубусы, портфели для чертежей",
+                "slug": "tubusy-portfeli-dlya-chertezhey-991",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "958",
+            "name": "Маркеры перманентные",
+            "slug": "markery-permanentnye-958",
+            "children": []
+          },
+          {
+            "id": "963",
+            "name": "Маркеры текстовые",
+            "slug": "markery-tekstovye-963",
+            "children": []
+          },
+          {
+            "id": "962",
+            "name": "Маркеры для белых досок",
+            "slug": "markery-dlya-belyh-dosok-962",
+            "children": []
+          },
+          {
+            "id": "960",
+            "name": "Маркеры для флипчартов",
+            "slug": "markery-dlya-flipchartov-960",
+            "children": []
+          },
+          {
+            "id": "977",
+            "name": "Маркеры специальные",
+            "slug": "markery-specialnye-977",
+            "children": [
+              {
+                "id": "978",
+                "name": "OHP-CD маркеры",
+                "slug": "ohp-cd-markery-978",
+                "children": []
+              },
+              {
+                "id": "979",
+                "name": "Пейнтмаркеры",
+                "slug": "peyntmarkery-979",
+                "children": []
+              },
+              {
+                "id": "980",
+                "name": "Маркеры специализированные",
+                "slug": "markery-spetsializirovannye-980",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "902",
+        "name": "Папки и системы архивации",
+        "slug": "papki-i-sistemy-arhivacii-902",
+        "children": [
+          {
+            "id": "904",
+            "name": "Папки уголки",
+            "slug": "papki-ugolki-904",
+            "children": []
+          },
+          {
+            "id": "905",
+            "name": "Папки с карманами",
+            "slug": "papki-s-karmanami-905",
+            "children": []
+          },
+          {
+            "id": "951",
+            "name": "Папки с клапанами, на завязках, на резиновых застежках, кнопке, молнии",
+            "slug": "papki-s-klapanami-na-zavyazkah-na-rezinovyh-zastezhkah-knopk-951",
+            "children": [
+              {
+                "id": "953",
+                "name": "Папки с клапанами",
+                "slug": "papki-s-klapanami-953",
+                "children": []
+              },
+              {
+                "id": "952",
+                "name": "Папки на завязках",
+                "slug": "papki-na-zavyazkah-952",
+                "children": []
+              },
+              {
+                "id": "954",
+                "name": "Папки на резиновых застежках",
+                "slug": "papki-na-rezinovyh-zastezhkah-954",
+                "children": []
+              },
+              {
+                "id": "955",
+                "name": "Папки на кнопке",
+                "slug": "papki-na-knopke-955",
+                "children": []
+              },
+              {
+                "id": "956",
+                "name": "Папки на молнии",
+                "slug": "papki-na-molnii-956",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "908",
+            "name": "Папки с прижимными механизмами",
+            "slug": "papki-s-prizhimnymi-mehanizmami-908",
+            "children": [
+              {
+                "id": "909",
+                "name": "Папки с прижимом",
+                "slug": "papki-s-prizhimom-909",
+                "children": []
+              },
+              {
+                "id": "911",
+                "name": "Папки с двумя прижимами",
+                "slug": "papki-s-dvumya-prizhimami-911",
+                "children": []
+              },
+              {
+                "id": "912",
+                "name": "Клипборды",
+                "slug": "klipbordy-912",
+                "children": []
+              },
+              {
+                "id": "913",
+                "name": "Клипборды с обложкой",
+                "slug": "klipbordy-s-oblozhkoy-913",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "930",
+            "name": "Папки с кольцевыми механизмами",
+            "slug": "papki-s-kolcevymi-mehanizmami-930",
+            "children": [
+              {
+                "id": "931",
+                "name": "Папки 2 кольца",
+                "slug": "papki-2-koltsa-931",
+                "children": []
+              },
+              {
+                "id": "932",
+                "name": "Папки 4 кольца",
+                "slug": "papki-4-koltsa-932",
+                "children": []
+              },
+              {
+                "id": "933",
+                "name": "Папки Панорама",
+                "slug": "papki-panorama-933",
+                "children": []
+              },
+              {
+                "id": "934",
+                "name": "Папки Банк",
+                "slug": "papki-bank-934",
+                "children": []
+              },
+              {
+                "id": "935",
+                "name": "Папки файл узкие",
+                "slug": "papki-fayl-uzkie-935",
+                "children": []
+              },
+              {
+                "id": "936",
+                "name": "Папки файл широкие",
+                "slug": "papki-fayl-shirokie-936",
+                "children": []
+              },
+              {
+                "id": "937",
+                "name": "Папки файл ламинированые с рисунком",
+                "slug": "papki-fayl-laminirovanye-s-risunkom-937",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "914",
+            "name": "Скоросшиватели",
+            "slug": "skorosshivateli-914",
+            "children": [
+              {
+                "id": "915",
+                "name": "Скоросшиватели картонные",
+                "slug": "skorosshivateli-kartonnye-915",
+                "children": []
+              },
+              {
+                "id": "916",
+                "name": "Скоросшиватели пластиковые",
+                "slug": "skorosshivateli-plastikovye-916",
+                "children": []
+              },
+              {
+                "id": "918",
+                "name": "Скоросшиватели пружинные",
+                "slug": "skorosshivateli-pruzhinnye-918",
+                "children": []
+              },
+              {
+                "id": "917",
+                "name": "Папки с клипом",
+                "slug": "papki-s-klipom-917",
+                "children": []
+              },
+              {
+                "id": "919",
+                "name": "Шины, обложки, механизмы для сшивания",
+                "slug": "shiny-oblozhki-mehanizmy-dlya-sshivaniya-919",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "939",
+            "name": "Мультифора, разделители",
+            "slug": "multifora-razdeliteli-939",
+            "children": [
+              {
+                "id": "940",
+                "name": "Мультифора A3",
+                "slug": "multifora-a3-940",
+                "children": []
+              },
+              {
+                "id": "2526",
+                "name": "Мультифора A4",
+                "slug": "multifora-a4-2526",
+                "children": []
+              },
+              {
+                "id": "2527",
+                "name": "Мультифора A5",
+                "slug": "multifora-a5-2527",
+                "children": []
+              },
+              {
+                "id": "941",
+                "name": "Мультифора специальная",
+                "slug": "multifora-spetsialnaya-941",
+                "children": []
+              },
+              {
+                "id": "942",
+                "name": "Разделители A3",
+                "slug": "razdeliteli-a3-942",
+                "children": []
+              },
+              {
+                "id": "946",
+                "name": "Разделители A4",
+                "slug": "razdeliteli-a4-946",
+                "children": [
+                  {
+                    "id": "947",
+                    "name": "Разделители A4 алфавитные, по месяцам",
+                    "slug": "razdeliteli-a4-alfavitnye-po-mesyatsam-947",
+                    "children": []
+                  },
+                  {
+                    "id": "948",
+                    "name": "Разделители A4 цифровые",
+                    "slug": "razdeliteli-a4-tsifrovye-948",
+                    "children": []
+                  },
+                  {
+                    "id": "949",
+                    "name": "Разделители A4 цветные",
+                    "slug": "razdeliteli-a4-tsvetnye-949",
+                    "children": []
+                  },
+                  {
+                    "id": "950",
+                    "name": "Разделители A4 универсальные",
+                    "slug": "razdeliteli-a4-universalnye-950",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "943",
+                "name": "Разделители A5",
+                "slug": "razdeliteli-a5-943",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "926",
+            "name": "Папки-портфели",
+            "slug": "papki-portfeli-926",
+            "children": [
+              {
+                "id": "927",
+                "name": "Папки-портфели",
+                "slug": "papki-portfeli-927",
+                "children": []
+              },
+              {
+                "id": "928",
+                "name": "Папки-портфели с отделениями",
+                "slug": "papki-portfeli-s-otdeleniyami-928",
+                "children": []
+              },
+              {
+                "id": "929",
+                "name": "Папки-органайзеры",
+                "slug": "papki-organayzery-929",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "903",
+            "name": "Архивные короба",
+            "slug": "arhivnye-koroba-903",
+            "children": []
+          },
+          {
+            "id": "1510",
+            "name": "Аксессуары для папок",
+            "slug": "aksessuary-dlya-papok-1510",
+            "children": []
+          },
+          {
+            "id": "920",
+            "name": "Картотеки, подвесная регистратура",
+            "slug": "kartoteki-podvesnaya-registratura-920",
+            "children": [
+              {
+                "id": "921",
+                "name": "Картотеки, аксессуары для картотек",
+                "slug": "kartoteki-aksessuary-dlya-kartotek-921",
+                "children": []
+              },
+              {
+                "id": "922",
+                "name": "Папки подвесные A4",
+                "slug": "papki-podvesnye-a4-922",
+                "children": []
+              },
+              {
+                "id": "923",
+                "name": "Папки подвесные Foolscap",
+                "slug": "papki-podvesnye-foolscap-923",
+                "children": []
+              },
+              {
+                "id": "924",
+                "name": "Подставки, боксы, тележки, аксессуары для подвесных папок",
+                "slug": "podstavki-boksy-telezhki-aksessuary-dlya-podvesnyh-papok-924",
+                "children": []
+              },
+              {
+                "id": "925",
+                "name": "Папки-класификаторы",
+                "slug": "papki-klasifikatory-925",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "855",
+        "name": "Мелко-офисная канцелярия",
+        "slug": "melko-ofisnaya-kancelyariya-855",
+        "children": [
+          {
+            "id": "893",
+            "name": "Корректоры",
+            "slug": "korrektory-893",
+            "children": [
+              {
+                "id": "894",
+                "name": "Корректоры с кисточкой",
+                "slug": "korrektory-s-kistochkoy-894",
+                "children": []
+              },
+              {
+                "id": "895",
+                "name": "Корректоры-ручки",
+                "slug": "korrektory-ruchki-895",
+                "children": []
+              },
+              {
+                "id": "896",
+                "name": "Корректоры ленточные",
+                "slug": "korrektory-lentochnye-896",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "889",
+            "name": "Клей",
+            "slug": "klej-889",
+            "children": [
+              {
+                "id": "890",
+                "name": "Клей жидкий",
+                "slug": "kley-zhidkiy-890",
+                "children": []
+              },
+              {
+                "id": "891",
+                "name": "Клей карандаш",
+                "slug": "kley-karandash-891",
+                "children": []
+              },
+              {
+                "id": "892",
+                "name": "Клей специальный",
+                "slug": "kley-spetsialnyy-892",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "868",
+            "name": "Степлеры, антистеплеры",
+            "slug": "steplery-antisteplery-868",
+            "children": [
+              {
+                "id": "869",
+                "name": "Антистеплеры",
+                "slug": "antisteplery-869",
+                "children": []
+              },
+              {
+                "id": "870",
+                "name": "Степлеры №10",
+                "slug": "steplery-10-870",
+                "children": []
+              },
+              {
+                "id": "871",
+                "name": "Степлеры №24, 26",
+                "slug": "steplery-24-26-871",
+                "children": []
+              },
+              {
+                "id": "872",
+                "name": "Степлеры мощные",
+                "slug": "steplery-moschnye-872",
+                "children": []
+              },
+              {
+                "id": "873",
+                "name": "Степлеры электрические",
+                "slug": "steplery-elektricheskie-873",
+                "children": []
+              },
+              {
+                "id": "874",
+                "name": "Степлеры-брошюровщики",
+                "slug": "steplery-broshyurovschiki-874",
+                "children": []
+              },
+              {
+                "id": "3355",
+                "name": "Степлеры специальные",
+                "slug": "steplery-spetsialnye-3355",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "857",
+            "name": "Скобы для степлеров",
+            "slug": "skoby-dlya-steplerov-857",
+            "children": [
+              {
+                "id": "858",
+                "name": "Скобы для степлеров №10",
+                "slug": "skoby-dlya-steplerov-10-858",
+                "children": []
+              },
+              {
+                "id": "859",
+                "name": "Скобы для степлеров №24, 26",
+                "slug": "skoby-dlya-steplerov-24-26-859",
+                "children": []
+              },
+              {
+                "id": "860",
+                "name": "Скобы для мощных степлеров",
+                "slug": "skoby-dlya-moschnyh-steplerov-860",
+                "children": []
+              },
+              {
+                "id": "861",
+                "name": "Скобы для специальных степлеров",
+                "slug": "skoby-dlya-spetsialnyh-steplerov-861",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "875",
+            "name": "Дыроколы",
+            "slug": "dyrokoly-875",
+            "children": [
+              {
+                "id": "877",
+                "name": "Дыроколы на 2 отверстия",
+                "slug": "dyrokoly-na-2-otverstiya-877",
+                "children": []
+              },
+              {
+                "id": "878",
+                "name": "Дыроколы на 4 отверстия",
+                "slug": "dyrokoly-na-4-otverstiya-878",
+                "children": []
+              },
+              {
+                "id": "879",
+                "name": "Дыроколы мощные",
+                "slug": "dyrokoly-moschnye-879",
+                "children": []
+              },
+              {
+                "id": "880",
+                "name": "Дыроколы специализированные",
+                "slug": "dyrokoly-spetsializirovannye-880",
+                "children": []
+              },
+              {
+                "id": "876",
+                "name": "Дыроколы электрические",
+                "slug": "dyrokoly-elektricheskie-876",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "862",
+            "name": "Кнопки, скрепки, зажимы",
+            "slug": "knopki-skrepki-zazhimy-862",
+            "children": [
+              {
+                "id": "863",
+                "name": "Скрепки, скрепочницы",
+                "slug": "skrepki-skrepochnitsy-863",
+                "children": []
+              },
+              {
+                "id": "864",
+                "name": "Зажимы, сшиватели для бумаг",
+                "slug": "zazhimy-sshivateli-dlya-bumag-864",
+                "children": []
+              },
+              {
+                "id": "865",
+                "name": "Булавки, гвоздики, флажки маркировочные",
+                "slug": "bulavki-gvozdiki-flazhki-markirovochnye-865",
+                "children": []
+              },
+              {
+                "id": "866",
+                "name": "Кнопки",
+                "slug": "knopki-866",
+                "children": []
+              },
+              {
+                "id": "867",
+                "name": "Наборы канцелярских мелочей",
+                "slug": "nabory-kantselyarskih-melochey-867",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "885",
+            "name": "Ножницы, ножи",
+            "slug": "nozhnicy-nozhi-885",
+            "children": [
+              {
+                "id": "886",
+                "name": "Ножницы",
+                "slug": "nozhnitsy-886",
+                "children": []
+              },
+              {
+                "id": "887",
+                "name": "Ножи макетные, коврики для резки",
+                "slug": "nozhi-maketnye-kovriki-dlya-rezki-887",
+                "children": []
+              },
+              {
+                "id": "888",
+                "name": "Запасные лезвия",
+                "slug": "zapasnye-lezviya-888",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "881",
+            "name": "Клейкая лента, клейкие материалы",
+            "slug": "klejkaya-lenta-klejkie-materialy-881",
+            "children": [
+              {
+                "id": "882",
+                "name": "Клейкая лента канцелярская, диспенсеры",
+                "slug": "kleykaya-lenta-kantselyarskaya-dispensery-882",
+                "children": []
+              },
+              {
+                "id": "883",
+                "name": "Клейкая лента упаковочная, упаковщики",
+                "slug": "kleykaya-lenta-upakovochnaya-upakovschiki-883",
+                "children": []
+              },
+              {
+                "id": "884",
+                "name": "Специальные виды клейких лент и материалов",
+                "slug": "spetsialnye-vidy-kleykih-lent-i-materialov-884",
+                "children": []
+              },
+              {
+                "id": "1924",
+                "name": "Самоклеящиеся крючки, держатели",
+                "slug": "samokleyaschiesya-kryuchki-derzhateli-1924",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "856",
+            "name": "Разное",
+            "slug": "raznoe-856",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1076",
+        "name": "Организация рабочего пространства",
+        "slug": "organizaciya-rabochego-prostranstva-1076",
+        "children": [
+          {
+            "id": "1081",
+            "name": "Поддоны, модули-накопители для бумаг",
+            "slug": "poddony-moduli-nakopiteli-dlya-bumag-1081",
+            "children": []
+          },
+          {
+            "id": "1089",
+            "name": "Подставки для бумаг",
+            "slug": "podstavki-dlya-bumag-1089",
+            "children": [
+              {
+                "id": "1090",
+                "name": "Лотки для бумаг Веер",
+                "slug": "lotki-dlya-bumag-veer-1090",
+                "children": []
+              },
+              {
+                "id": "1091",
+                "name": "Накопители вертикальные",
+                "slug": "nakopiteli-vertikalnye-1091",
+                "children": []
+              },
+              {
+                "id": "1092",
+                "name": "Накопители вертикальные с отделениями",
+                "slug": "nakopiteli-vertikalnye-s-otdeleniyami-1092",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1084",
+            "name": "Корзины для бумаг",
+            "slug": "korziny-dlya-bumag-1084",
+            "children": []
+          },
+          {
+            "id": "1087",
+            "name": "Подставки для календарей, канцпринадлежностей",
+            "slug": "podstavki-dlya-kalendarej-kancprinadlezhnostej-1087",
+            "children": []
+          },
+          {
+            "id": "1083",
+            "name": "Ящики для денег, шкафы для ключей, аптечки",
+            "slug": "yaschiki-dlya-deneg-shkafy-dlya-klyuchej-aptechki-1083",
+            "children": []
+          },
+          {
+            "id": "1086",
+            "name": "Наборы настольные с наполнением",
+            "slug": "nabory-nastolnye-s-napolneniem-1086",
+            "children": []
+          },
+          {
+            "id": "1085",
+            "name": "Наборы настольные из дерева, стали",
+            "slug": "nabory-nastolnye-iz-dereva-stali-1085",
+            "children": []
+          },
+          {
+            "id": "1088",
+            "name": "Наборы, аксессуары из камня, кожи",
+            "slug": "nabory-aksessuary-iz-kamnya-kozhi-1088",
+            "children": []
+          },
+          {
+            "id": "1082",
+            "name": "Коллекции настольных принадлежностей",
+            "slug": "kollekcii-nastolnyh-prinadlezhnostej-1082",
+            "children": []
+          },
+          {
+            "id": "1079",
+            "name": "Эргономика",
+            "slug": "ergonomika-1079",
+            "children": []
+          },
+          {
+            "id": "1080",
+            "name": "Настилы",
+            "slug": "nastily-1080",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1093",
+        "name": "Информационно-презентационное оборудование",
+        "slug": "informacionno-prezentacionnoe-oborudovanie-1093",
+        "children": [
+          {
+            "id": "1227",
+            "name": "Глобусы и карты",
+            "slug": "globusy-i-karty-1227",
+            "children": []
+          },
+          {
+            "id": "1094",
+            "name": "Доски офисные и аксессуары",
+            "slug": "doski-ofisnye-i-aksessuary-1094",
+            "children": [
+              {
+                "id": "1095",
+                "name": "Доски маркерные",
+                "slug": "doski-markernye-1095",
+                "children": []
+              },
+              {
+                "id": "1096",
+                "name": "Доски пробковые",
+                "slug": "doski-probkovye-1096",
+                "children": []
+              },
+              {
+                "id": "1097",
+                "name": "Доски с тканевым, каучуковым покрытием",
+                "slug": "doski-s-tkanevym-kauchukovym-pokrytiem-1097",
+                "children": []
+              },
+              {
+                "id": "1098",
+                "name": "Доски меловые",
+                "slug": "doski-melovye-1098",
+                "children": []
+              },
+              {
+                "id": "1216",
+                "name": "Доски клейкие",
+                "slug": "doski-kleykie-1216",
+                "children": []
+              },
+              {
+                "id": "1100",
+                "name": "Доски комбинированные, доски-витрины",
+                "slug": "doski-kombinirovannye-doski-vitriny-1100",
+                "children": []
+              },
+              {
+                "id": "1101",
+                "name": "Флипчарты, аксессуары",
+                "slug": "flipcharty-aksessuary-1101",
+                "children": []
+              },
+              {
+                "id": "1102",
+                "name": "Аксессуары для досок",
+                "slug": "aksessuary-dlya-dosok-1102",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1103",
+            "name": "Оборудование для размещения информации",
+            "slug": "oborudovanie-dlya-razmescheniya-informacii-1103",
+            "children": [
+              {
+                "id": "1104",
+                "name": "Бейджи, шнуры, держатели ID-карт",
+                "slug": "beydzhi-shnury-derzhateli-id-kart-1104",
+                "children": []
+              },
+              {
+                "id": "1105",
+                "name": "Стенды, стойки, держатели",
+                "slug": "stendy-stoyki-derzhateli-1105",
+                "children": []
+              },
+              {
+                "id": "1106",
+                "name": "Демо-системы",
+                "slug": "demo-sistemy-1106",
+                "children": []
+              },
+              {
+                "id": "1107",
+                "name": "Пиктограммы",
+                "slug": "piktogrammy-1107",
+                "children": []
+              },
+              {
+                "id": "1109",
+                "name": "Пюпитры, экраны проекционные, указки",
+                "slug": "pyupitry-ekrany-proektsionnye-ukazki-1109",
+                "children": []
+              },
+              {
+                "id": "1110",
+                "name": "Аудио, видео оборудование",
+                "slug": "audio-video-oborudovanie-1110",
+                "children": []
+              },
+              {
+                "id": "1111",
+                "name": "Фотоальбомы, рамки",
+                "slug": "fotoalbomy-ramki-1111",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1018",
+        "name": "Офисная, бытовая техника и расходные материалы",
+        "slug": "ofisnaya-bytovaya-tehnika-i-rashodnye-materialy-1018",
+        "children": [
+          {
+            "id": "1028",
+            "name": "Калькуляторы, батарейки, зарядные устройства",
+            "slug": "kalkulyatory-batarejki-zaryadnye-ustrojstva-1028",
+            "children": [
+              {
+                "id": "1030",
+                "name": "Калькуляторы",
+                "slug": "kalkulyatory-1030",
+                "children": []
+              },
+              {
+                "id": "1029",
+                "name": "Аккумуляторы, батарейки",
+                "slug": "akkumulyatory-batareyki-1029",
+                "children": []
+              },
+              {
+                "id": "1031",
+                "name": "Зарядные устройства, внешние источники питания",
+                "slug": "zaryadnye-ustroystva-vneshnie-istochniki-pitaniya-1031",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1064",
+            "name": "Офисная техника",
+            "slug": "ofisnaya-tehnika-1064",
+            "children": [
+              {
+                "id": "1065",
+                "name": "Детекторы, счетчики валют",
+                "slug": "detektory-schetchiki-valyut-1065",
+                "children": []
+              },
+              {
+                "id": "1066",
+                "name": "Ламинаторы",
+                "slug": "laminatory-1066",
+                "children": []
+              },
+              {
+                "id": "1067",
+                "name": "Переплетчики",
+                "slug": "perepletchiki-1067",
+                "children": []
+              },
+              {
+                "id": "1068",
+                "name": "Резаки",
+                "slug": "rezaki-1068",
+                "children": []
+              },
+              {
+                "id": "1069",
+                "name": "Шредеры",
+                "slug": "shredery-1069",
+                "children": []
+              },
+              {
+                "id": "1070",
+                "name": "Ленточные принтеры",
+                "slug": "lentochnye-printery-1070",
+                "children": []
+              },
+              {
+                "id": "1071",
+                "name": "Телефоны, факсы",
+                "slug": "telefony-faksy-1071",
+                "children": []
+              },
+              {
+                "id": "1072",
+                "name": "Фильтры, удлинители сетевые",
+                "slug": "filtry-udliniteli-setevye-1072",
+                "children": []
+              },
+              {
+                "id": "1203",
+                "name": "Климатическая техника",
+                "slug": "klimaticheskaya-tehnika-1203",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1032",
+            "name": "Расходные материалы",
+            "slug": "rashodnye-materialy-1032",
+            "children": [
+              {
+                "id": "1038",
+                "name": "Картриджи лазерные",
+                "slug": "kartridzhi-lazernye-1038",
+                "children": [
+                  {
+                    "id": "1039",
+                    "name": "Картриджи лазерные Brother",
+                    "slug": "kartridzhi-lazernye-brother-1039",
+                    "children": []
+                  },
+                  {
+                    "id": "1040",
+                    "name": "Картриджи лазерные HP",
+                    "slug": "kartridzhi-lazernye-hp-1040",
+                    "children": []
+                  },
+                  {
+                    "id": "1041",
+                    "name": "Картриджи лазерные Samsung",
+                    "slug": "kartridzhi-lazernye-samsung-1041",
+                    "children": []
+                  },
+                  {
+                    "id": "1042",
+                    "name": "Картриджи лазерные Xerox",
+                    "slug": "kartridzhi-lazernye-xerox-1042",
+                    "children": []
+                  },
+                  {
+                    "id": "1043",
+                    "name": "Картриджи лазерные Canon",
+                    "slug": "kartridzhi-lazernye-canon-1043",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1044",
+                "name": "Картриджи струйные",
+                "slug": "kartridzhi-struynye-1044",
+                "children": [
+                  {
+                    "id": "1045",
+                    "name": "Картриджи струйные Canon",
+                    "slug": "kartridzhi-struynye-canon-1045",
+                    "children": []
+                  },
+                  {
+                    "id": "1046",
+                    "name": "Картриджи струйные Epson",
+                    "slug": "kartridzhi-struynye-epson-1046",
+                    "children": []
+                  },
+                  {
+                    "id": "1047",
+                    "name": "Картриджи струйные HP",
+                    "slug": "kartridzhi-struynye-hp-1047",
+                    "children": []
+                  },
+                  {
+                    "id": "1048",
+                    "name": "Картриджи струйные Lexmark",
+                    "slug": "kartridzhi-struynye-lexmark-1048",
+                    "children": []
+                  },
+                  {
+                    "id": "1049",
+                    "name": "Картриджи струйные Samsung",
+                    "slug": "kartridzhi-struynye-samsung-1049",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1033",
+                "name": "Расходные материалы для копировальной техники",
+                "slug": "rashodnye-materialy-dlya-kopirovalnoy-tehniki-1033",
+                "children": []
+              },
+              {
+                "id": "1034",
+                "name": "Расходные материалы для факсов",
+                "slug": "rashodnye-materialy-dlya-faksov-1034",
+                "children": []
+              },
+              {
+                "id": "1035",
+                "name": "Картриджи для ленточных принтеров",
+                "slug": "kartridzhi-dlya-lentochnyh-printerov-1035",
+                "children": []
+              },
+              {
+                "id": "1050",
+                "name": "Расходные материалы для переплетчиков",
+                "slug": "rashodnye-materialy-dlya-perepletchikov-1050",
+                "children": [
+                  {
+                    "id": "1051",
+                    "name": "Обложки",
+                    "slug": "oblozhki-1051",
+                    "children": []
+                  },
+                  {
+                    "id": "1052",
+                    "name": "Пружины пластиковые",
+                    "slug": "pruzhiny-plastikovye-1052",
+                    "children": []
+                  },
+                  {
+                    "id": "1053",
+                    "name": "Пружины металлические",
+                    "slug": "pruzhiny-metallicheskie-1053",
+                    "children": []
+                  },
+                  {
+                    "id": "1054",
+                    "name": "Обложки для термопереплета",
+                    "slug": "oblozhki-dlya-termoperepleta-1054",
+                    "children": []
+                  },
+                  {
+                    "id": "1055",
+                    "name": "Обложки для обжимного переплетчика ImpressBIND",
+                    "slug": "oblozhki-dlya-obzhimnogo-perepletchika-impressbind-1055",
+                    "children": []
+                  },
+                  {
+                    "id": "1214",
+                    "name": "Расходные материалы для Express-5",
+                    "slug": "rashodnye-materialy-dlya-express-5-1214",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1036",
+                "name": "Пленка для ламинирования",
+                "slug": "plenka-dlya-laminirovaniya-1036",
+                "children": []
+              },
+              {
+                "id": "1037",
+                "name": "Расходные материалы для шредеров",
+                "slug": "rashodnye-materialy-dlya-shrederov-1037",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1056",
+            "name": "Компьютерные аксессуары",
+            "slug": "kompyuternye-aksessuary-1056",
+            "children": [
+              {
+                "id": "1057",
+                "name": "Коврики для мышек, подкладки для рук, к клавиатуре",
+                "slug": "kovriki-dlya-myshek-podkladki-dlya-ruk-k-klaviature-1057",
+                "children": []
+              },
+              {
+                "id": "1058",
+                "name": "Копи-холдеры",
+                "slug": "kopi-holdery-1058",
+                "children": []
+              },
+              {
+                "id": "1059",
+                "name": "Подставки для оргтехники, замки, зарядные устройства",
+                "slug": "podstavki-dlya-orgtehniki-zamki-zaryadnye-ustroystva-1059",
+                "children": []
+              },
+              {
+                "id": "1213",
+                "name": "Клавиатуры, мыши",
+                "slug": "klaviatury-myshi-1213",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1020",
+            "name": "Диски, боксы, CD-подставки, карты памяти",
+            "slug": "diski-boksy-cd-podstavki-karty-pamyati-1020",
+            "children": [
+              {
+                "id": "1023",
+                "name": "Диски",
+                "slug": "diski-1023",
+                "children": [
+                  {
+                    "id": "1025",
+                    "name": "Диски CD",
+                    "slug": "diski-cd-1025",
+                    "children": []
+                  },
+                  {
+                    "id": "1026",
+                    "name": "Диски DVD",
+                    "slug": "diski-dvd-1026",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1021",
+                "name": "Аксессуары для CD/DVD",
+                "slug": "aksessuary-dlya-cd-dvd-1021",
+                "children": []
+              },
+              {
+                "id": "1022",
+                "name": "Флэш-драйвы, карты памяти, кард-ридеры",
+                "slug": "flesh-drayvy-karty-pamyati-kard-ridery-1022",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1019",
+            "name": "Чистящие средства для оргтехники",
+            "slug": "chistyaschie-sredstva-dlya-orgtehniki-1019",
+            "children": []
+          },
+          {
+            "id": "1060",
+            "name": "Светильники, часы",
+            "slug": "svetilniki-chasy-1060",
+            "children": [
+              {
+                "id": "1061",
+                "name": "Светильники",
+                "slug": "svetilniki-1061",
+                "children": []
+              },
+              {
+                "id": "1062",
+                "name": "Лампы",
+                "slug": "lampy-1062",
+                "children": []
+              },
+              {
+                "id": "1063",
+                "name": "Часы, метеостанции",
+                "slug": "chasy-meteostantsii-1063",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1212",
+            "name": "Мультимедиа",
+            "slug": "multimedia-1212",
+            "children": []
+          },
+          {
+            "id": "1752",
+            "name": "Бытовая техника",
+            "slug": "bytovaya-tehnika-1752",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "843",
+        "name": "Товары для бизнес-планирования",
+        "slug": "tovary-dlya-biznes-planirovaniya-843",
+        "children": [
+          {
+            "id": "851",
+            "name": "Календари",
+            "slug": "kalendari-851",
+            "children": [
+              {
+                "id": "852",
+                "name": "Календари настенные",
+                "slug": "kalendari-nastennye-852",
+                "children": []
+              },
+              {
+                "id": "853",
+                "name": "Календари настольные",
+                "slug": "kalendari-nastolnye-853",
+                "children": []
+              },
+              {
+                "id": "854",
+                "name": "Календари карманные",
+                "slug": "kalendari-karmannye-854",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "845",
+            "name": "Алфавитные книжки",
+            "slug": "alfavitnye-knizhki-845",
+            "children": []
+          },
+          {
+            "id": "844",
+            "name": "Визитницы",
+            "slug": "vizitnicy-844",
+            "children": []
+          },
+          {
+            "id": "846",
+            "name": "Ежедневники, органайзеры",
+            "slug": "ezhednevniki-organajzery-846",
+            "children": [
+              {
+                "id": "847",
+                "name": "Ежедневники",
+                "slug": "ezhednevniki-847",
+                "children": []
+              },
+              {
+                "id": "848",
+                "name": "Еженедельники",
+                "slug": "ezhenedelniki-848",
+                "children": []
+              },
+              {
+                "id": "849",
+                "name": "Планинги",
+                "slug": "planingi-849",
+                "children": []
+              },
+              {
+                "id": "850",
+                "name": "Бизнес-органайзеры и аксессуары к ним",
+                "slug": "biznes-organayzery-i-aksessuary-k-nim-850",
+                "children": []
+              },
+              {
+                "id": "3419",
+                "name": "Ежедневники специализированные",
+                "slug": "ezhednevniki-spetsializirovannye-3419",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "897",
+        "name": "Кожгалантерея",
+        "slug": "kozhgalantereya-897",
+        "children": [
+          {
+            "id": "900",
+            "name": "Обложки для документов, бумажники водителя",
+            "slug": "oblozhki-dlya-dokumentov-bumazhniki-voditelya-900",
+            "children": []
+          },
+          {
+            "id": "899",
+            "name": "Портмоне, зажимы для купюр",
+            "slug": "portmone-zazhimy-dlya-kupyur-899",
+            "children": []
+          },
+          {
+            "id": "898",
+            "name": "Портфели, сумки, рюкзаки, папки деловые, чемоданы",
+            "slug": "portfeli-sumki-ryukzaki-papki-delovye-chemodany-898",
+            "children": []
+          },
+          {
+            "id": "901",
+            "name": "Футляры, ключницы, брелоки",
+            "slug": "futlyary-klyuchnicy-breloki-901",
+            "children": []
+          },
+          {
+            "id": "1233",
+            "name": "Сумки, футляры, чехлы для мобильных устройств",
+            "slug": "sumki-futlyary-chehly-dlya-mobilnyh-ustrojstv-1233",
+            "children": []
+          },
+          {
+            "id": "1234",
+            "name": "Сумки, футляры для фото, видеотехники",
+            "slug": "sumki-futlyary-dlya-foto-videotehniki-1234",
+            "children": []
+          },
+          {
+            "id": "1211",
+            "name": "Папки адресные",
+            "slug": "papki-adresnye-1211",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "837",
+        "name": "Печати и штампы",
+        "slug": "pechati-i-shtampy-837",
+        "children": [
+          {
+            "id": "839",
+            "name": "Оснастки для печатей, штампов",
+            "slug": "osnastki-dlya-pechatej-shtampov-839",
+            "children": []
+          },
+          {
+            "id": "841",
+            "name": "Датеры, нумераторы, готовые штампы",
+            "slug": "datery-numeratory-gotovye-shtampy-841",
+            "children": []
+          },
+          {
+            "id": "840",
+            "name": "Штампы самонаборные, кассы",
+            "slug": "shtampy-samonabornye-kassy-840",
+            "children": []
+          },
+          {
+            "id": "838",
+            "name": "Подушки сменные для штампов",
+            "slug": "podushki-smennye-dlya-shtampov-838",
+            "children": []
+          },
+          {
+            "id": "842",
+            "name": "Подушки, краски штемпельные",
+            "slug": "podushki-kraski-shtempelnye-842",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1073",
+        "name": "Хозяйственные товары",
+        "slug": "hozyajstvennye-tovary-1073",
+        "children": [
+          {
+            "id": "1075",
+            "name": "Гигиенические товары, уборочный инвентарь",
+            "slug": "gigienicheskie-tovary-uborochnyj-inventar-1075",
+            "children": []
+          },
+          {
+            "id": "1074",
+            "name": "Посуда",
+            "slug": "posuda-1074",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "834",
+        "name": "Торговое, складское оборудование и материалы",
+        "slug": "torgovoe-skladskoe-oborudovanie-i-materialy-834",
+        "children": [
+          {
+            "id": "836",
+            "name": "Торговое оборудование и материалы",
+            "slug": "torgovoe-oborudovanie-i-materialy-836",
+            "children": []
+          },
+          {
+            "id": "835",
+            "name": "Складское оборудование и материалы",
+            "slug": "skladskoe-oborudovanie-i-materialy-835",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1208",
+        "name": "Мебель, мебельные аксессуары",
+        "slug": "mebel-mebelnye-aksessuary-1208",
+        "children": [
+          {
+            "id": "1209",
+            "name": "Мебель, мебельные аксессуары",
+            "slug": "mebel-mebelnye-aksessuary-1209",
+            "children": [
+              {
+                "id": "13273",
+                "name": "Кресла, стулья",
+                "slug": "kresla-stulya-13273",
+                "children": []
+              },
+              {
+                "id": "13274",
+                "name": "Вешалки",
+                "slug": "veshalki-13274",
+                "children": []
+              },
+              {
+                "id": "13275",
+                "name": "Сейфы",
+                "slug": "seyfy-13275",
+                "children": []
+              },
+              {
+                "id": "13276",
+                "name": "Стеллажи, подставки",
+                "slug": "stellazhi-podstavki-13276",
+                "children": []
+              },
+              {
+                "id": "13277",
+                "name": "Аксессуары",
+                "slug": "aksessuary-13277",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1206",
+        "name": "Продукты",
+        "slug": "produkty-1206",
+        "children": [
+          {
+            "id": "1207",
+            "name": "Продукты",
+            "slug": "produkty-1207",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1175",
+    "name": "Товары для детей",
+    "menuName": "Для детей",
+    "slug": "tovary-dlya-detej-1175",
+    "groups": [
+      {
+        "id": "1177",
+        "name": "Ранцы, рюкзаки, сумки, фартуки",
+        "slug": "rancy-ryukzaki-sumki-fartuki-1177",
+        "children": []
+      },
+      {
+        "id": "1176",
+        "name": "Пеналы, кошельки, косметички",
+        "slug": "penaly-koshelki-kosmetichki-1176",
+        "children": []
+      },
+      {
+        "id": "1178",
+        "name": "Школьная бумажно-беловая продукция",
+        "slug": "shkolnaya-bumazhno-belovaya-produkciya-1178",
+        "children": []
+      },
+      {
+        "id": "1179",
+        "name": "Обложки, папки для тетрадей, папки для уроков труда",
+        "slug": "oblozhki-papki-dlya-tetradej-papki-dlya-urokov-truda-1179",
+        "children": []
+      },
+      {
+        "id": "1180",
+        "name": "Детские товары: ручки, линейки, ножницы, клей, фломастеры, карандаши цветные, краски",
+        "slug": "detskie-tovary-ruchki-linejki-nozhnicy-klej-flomastery-karan-1180",
+        "children": []
+      },
+      {
+        "id": "1181",
+        "name": "Детские наборы канцелярских принадлежностей",
+        "slug": "detskie-nabory-kancelyarskih-prinadlezhnostej-1181",
+        "children": []
+      },
+      {
+        "id": "1182",
+        "name": "Детские, школьные аксессуары",
+        "slug": "detskie-shkolnye-aksessuary-1182",
+        "children": []
+      },
+      {
+        "id": "1217",
+        "name": "Детская мебель",
+        "slug": "detskaya-mebel-1217",
+        "children": []
+      },
+      {
+        "id": "1322",
+        "name": "Творческие и развивающие наборы, игры",
+        "slug": "tvorcheskie-i-razvivayuschie-nabory-igry-1322",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1158",
+    "name": "Все для творчества",
+    "menuName": "Творчество",
+    "slug": "vse-dlya-tvorchestva-1158",
+    "groups": [
+      {
+        "id": "1215",
+        "name": "Грим",
+        "slug": "grim-1215",
+        "children": []
+      },
+      {
+        "id": "1159",
+        "name": "Краски акварельные, гуашевые, темперные",
+        "slug": "kraski-akvarelnye-guashevye-tempernye-1159",
+        "children": [
+          {
+            "id": "1662",
+            "name": "Краски акварельные",
+            "slug": "kraski-akvarelnye-1662",
+            "children": []
+          },
+          {
+            "id": "1663",
+            "name": "Гуашь",
+            "slug": "guash-1663",
+            "children": []
+          },
+          {
+            "id": "1664",
+            "name": "Краски темперные",
+            "slug": "kraski-tempernye-1664",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1160",
+        "name": "Краски акриловые художественные",
+        "slug": "kraski-akrilovye-hudozhestvennye-1160",
+        "children": []
+      },
+      {
+        "id": "1161",
+        "name": "Краски масляные",
+        "slug": "kraski-maslyanye-1161",
+        "children": []
+      },
+      {
+        "id": "1162",
+        "name": "Краски по ткани, стеклу, керамике, витражные лаки",
+        "slug": "kraski-po-tkani-steklu-keramike-vitrazhnye-laki-1162",
+        "children": [
+          {
+            "id": "1666",
+            "name": "Краски по ткани",
+            "slug": "kraski-po-tkani-1666",
+            "children": []
+          },
+          {
+            "id": "1668",
+            "name": "Краски по стеклу, керамике",
+            "slug": "kraski-po-steklu-keramike-1668",
+            "children": []
+          },
+          {
+            "id": "1669",
+            "name": "Краски витражные",
+            "slug": "kraski-vitrazhnye-1669",
+            "children": []
+          },
+          {
+            "id": "1667",
+            "name": "Контуры",
+            "slug": "kontury-1667",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1164",
+        "name": "Краски специальные",
+        "slug": "kraski-specialnye-1164",
+        "children": [
+          {
+            "id": "1670",
+            "name": "Все для каллиграфии",
+            "slug": "vse-dlya-kalligrafii-1670",
+            "children": []
+          },
+          {
+            "id": "1671",
+            "name": "Все для граффити",
+            "slug": "vse-dlya-graffiti-1671",
+            "children": []
+          },
+          {
+            "id": "1672",
+            "name": "Краски для декорирования",
+            "slug": "kraski-dlya-dekorirovaniya-1672",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1165",
+        "name": "Карандаши художественные, пастель, уголь, ручки, маркеры",
+        "slug": "karandashi-hudozhestvennye-pastel-ugol-ruchki-markery-1165",
+        "children": [
+          {
+            "id": "1673",
+            "name": "Карандаши чернографитные, графит",
+            "slug": "karandashi-chernografitnye-grafit-1673",
+            "children": []
+          },
+          {
+            "id": "1676",
+            "name": "Карандаши цветные",
+            "slug": "karandashi-cvetnye-1676",
+            "children": []
+          },
+          {
+            "id": "1674",
+            "name": "Карандаши акварельные, мелки акварельные",
+            "slug": "karandashi-akvarelnye-melki-akvarelnye-1674",
+            "children": []
+          },
+          {
+            "id": "1675",
+            "name": "Карандаши пастельные, пастель",
+            "slug": "karandashi-pastelnye-pastel-1675",
+            "children": []
+          },
+          {
+            "id": "1677",
+            "name": "Карандаши угольные, масляные, меловые, сангина, сепия, соусы",
+            "slug": "karandashi-ugolnye-maslyanye-melovye-sangina-sepiya-sousy-1677",
+            "children": []
+          },
+          {
+            "id": "1678",
+            "name": "Ручки художественные, маркеры",
+            "slug": "ruchki-hudozhestvennye-markery-1678",
+            "children": []
+          },
+          {
+            "id": "1679",
+            "name": "Наборы художественные подарочные",
+            "slug": "nabory-hudozhestvennye-podarochnye-1679",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1172",
+        "name": "Вспомогательные материалы",
+        "slug": "vspomogatelnye-materialy-1172",
+        "children": [
+          {
+            "id": "1691",
+            "name": "Для акварели и гуаши",
+            "slug": "dlya-akvareli-i-guashi-1691",
+            "children": []
+          },
+          {
+            "id": "1692",
+            "name": "Для акриловых красок",
+            "slug": "dlya-akrilovyh-krasok-1692",
+            "children": []
+          },
+          {
+            "id": "1693",
+            "name": "Для масляных красок",
+            "slug": "dlya-maslyanyh-krasok-1693",
+            "children": []
+          },
+          {
+            "id": "1694",
+            "name": "Грунты, пасты, гели, воски",
+            "slug": "grunty-pasty-geli-voski-1694",
+            "children": []
+          },
+          {
+            "id": "1695",
+            "name": "Лаки универсальные",
+            "slug": "laki-universalnye-1695",
+            "children": []
+          },
+          {
+            "id": "1696",
+            "name": "Клеевые материалы и средства",
+            "slug": "kleevye-materialy-i-sredstva-1696",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1171",
+        "name": "Кисти и инструменты",
+        "slug": "kisti-i-instrumenty-1171",
+        "children": [
+          {
+            "id": "1680",
+            "name": "Кисти колонок, белка, соболь, коза",
+            "slug": "kisti-kolonok-belka-sobol-koza-1680",
+            "children": []
+          },
+          {
+            "id": "1681",
+            "name": "Кисти синтетика",
+            "slug": "kisti-sintetika-1681",
+            "children": []
+          },
+          {
+            "id": "1682",
+            "name": "Кисти щетина",
+            "slug": "kisti-schetina-1682",
+            "children": []
+          },
+          {
+            "id": "1683",
+            "name": "Кисти, валики, губки для декоративных техник",
+            "slug": "kisti-valiki-gubki-dlya-dekorativnyh-tehnik-1683",
+            "children": []
+          },
+          {
+            "id": "1684",
+            "name": "Инструменты",
+            "slug": "instrumenty-1684",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1167",
+        "name": "Художественные аксессуары и оборудование",
+        "slug": "hudozhestvennye-aksessuary-i-oborudovanie-1167",
+        "children": []
+      },
+      {
+        "id": "1174",
+        "name": "Бумага, материалы для рисования",
+        "slug": "bumaga-materialy-dlya-risovaniya-1174",
+        "children": []
+      },
+      {
+        "id": "1173",
+        "name": "Наборы и предметы для творчества",
+        "slug": "nabory-i-predmety-dlya-tvorchestva-1173",
+        "children": []
+      },
+      {
+        "id": "1169",
+        "name": "Литература для художников",
+        "slug": "literatura-dlya-hudozhnikov-1169",
+        "children": []
+      },
+      {
+        "id": "1166",
+        "name": "Бумага, материалы для творчества",
+        "slug": "bumaga-materialy-dlya-tvorchestva-1166",
+        "children": []
+      },
+      {
+        "id": "1168",
+        "name": "Дизайнерские аксессуары",
+        "slug": "dizajnerskie-aksessuary-1168",
+        "children": []
+      },
+      {
+        "id": "1170",
+        "name": "Лепка",
+        "slug": "lepka-1170",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1151",
+    "name": "Бизнес-подарки",
+    "menuName": "Подарки",
+    "slug": "biznes-podarki-1151",
+    "groups": [
+      {
+        "id": "1154",
+        "name": "Ручки подарочные",
+        "slug": "ruchki-podarochnye-1154",
+        "children": [
+          {
+            "id": "1218",
+            "name": "Ручки Parker",
+            "slug": "ruchki-parker-1218",
+            "children": []
+          },
+          {
+            "id": "1219",
+            "name": "Ручки Waterman",
+            "slug": "ruchki-waterman-1219",
+            "children": []
+          },
+          {
+            "id": "1221",
+            "name": "Ручки Cross",
+            "slug": "ruchki-cross-1221",
+            "children": []
+          },
+          {
+            "id": "1220",
+            "name": "Ручки и аксессуары Faber-Castell",
+            "slug": "ruchki-i-aksessuary-faber-castell-1220",
+            "children": []
+          },
+          {
+            "id": "1222",
+            "name": "Ручки Pelikan",
+            "slug": "ruchki-pelikan-1222",
+            "children": []
+          },
+          {
+            "id": "1225",
+            "name": "Ручки Aurora, Visconti",
+            "slug": "ruchki-aurora-visconti-1225",
+            "children": []
+          },
+          {
+            "id": "1223",
+            "name": "Ручки Caran d'Ache",
+            "slug": "ruchki-caran-d-ache-1223",
+            "children": []
+          },
+          {
+            "id": "1224",
+            "name": "Ручки подарочные прочие",
+            "slug": "ruchki-podarochnye-prochie-1224",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1155",
+        "name": "Подарочные издания",
+        "slug": "podarochnye-izdaniya-1155",
+        "children": []
+      },
+      {
+        "id": "1156",
+        "name": "Ключницы, панно, оружие сувенирное",
+        "slug": "klyuchnicy-panno-oruzhie-suvenirnoe-1156",
+        "children": []
+      },
+      {
+        "id": "1204",
+        "name": "Глобусы интерьерные",
+        "slug": "globusy-interernye-1204",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1149",
+    "name": "Все для праздника",
+    "menuName": "Все для праздника",
+    "slug": "vse-dlya-prazdnika-1149",
+    "groups": [
+      {
+        "id": "1150",
+        "name": "Флаги",
+        "slug": "flagi-1150",
+        "children": []
+      },
+      {
+        "id": "1184",
+        "name": "Новогодние товары",
+        "slug": "novogodnie-tovary-1184",
+        "children": [
+          {
+            "id": "1185",
+            "name": "Новогодние деревья",
+            "slug": "novogodnie-derevya-1185",
+            "children": []
+          },
+          {
+            "id": "1186",
+            "name": "Елочные украшения",
+            "slug": "elochnye-ukrasheniya-1186",
+            "children": []
+          },
+          {
+            "id": "1187",
+            "name": "Украшения для интерьера",
+            "slug": "ukrasheniya-dlya-interera-1187",
+            "children": []
+          },
+          {
+            "id": "1188",
+            "name": "Электрогирлянды",
+            "slug": "elektrogirlyandy-1188",
+            "children": []
+          },
+          {
+            "id": "1189",
+            "name": "Символы года",
+            "slug": "simvoly-goda-1189",
+            "children": []
+          },
+          {
+            "id": "1190",
+            "name": "Новогодние сувениры",
+            "slug": "novogodnie-suveniry-1190",
+            "children": []
+          },
+          {
+            "id": "1191",
+            "name": "Карнавальные костюмы",
+            "slug": "karnavalnye-kostyumy-1191",
+            "children": []
+          },
+          {
+            "id": "1192",
+            "name": "Карнавальные аксессуары",
+            "slug": "karnavalnye-aksessuary-1192",
+            "children": []
+          },
+          {
+            "id": "3300",
+            "name": "Новогодняя упаковка",
+            "slug": "novogodnyaya-upakovka-3300",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "3426",
+        "name": "Интересные подарки",
+        "slug": "interesnye-podarki-3426",
+        "children": []
+      },
+      {
+        "id": "1193",
+        "name": "Праздничный стол",
+        "slug": "prazdnichnyj-stol-1193",
+        "children": []
+      },
+      {
+        "id": "1759",
+        "name": "Украшения для праздников",
+        "slug": "ukrasheniya-dlya-prazdnikov-1759",
+        "children": [
+          {
+            "id": "4957",
+            "name": "Шары и аксессуары",
+            "slug": "shary-i-aksessuary-4957",
+            "children": []
+          },
+          {
+            "id": "4964",
+            "name": "Гирлянды и украшения",
+            "slug": "girlyandy-i-ukrasheniya-4964",
+            "children": []
+          },
+          {
+            "id": "4965",
+            "name": "Хлопушки, серпантин, дудки",
+            "slug": "hlopushki-serpantin-dudki-4965",
+            "children": []
+          },
+          {
+            "id": "4966",
+            "name": "Карнавальные аксессуары",
+            "slug": "karnavalnye-aksessuary-4966",
+            "children": []
+          },
+          {
+            "id": "4978",
+            "name": "Компрессоры и генераторы эффектов",
+            "slug": "kompressory-i-generatory-effektov-4978",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1194",
+        "name": "Подарочная упаковка",
+        "slug": "podarochnaya-upakovka-1194",
+        "children": [
+          {
+            "id": "5659",
+            "name": "Пакеты, мешки подарочные",
+            "slug": "pakety-meshki-podarochnye-5659",
+            "children": []
+          },
+          {
+            "id": "5660",
+            "name": "Коробки, корзины подарочные",
+            "slug": "korobki-korziny-podarochnye-5660",
+            "children": []
+          },
+          {
+            "id": "4977",
+            "name": "Бумага, пленка",
+            "slug": "bumaga-plenka-4977",
+            "children": []
+          },
+          {
+            "id": "5661",
+            "name": "Наполнитель",
+            "slug": "napolnitel-5661",
+            "children": []
+          },
+          {
+            "id": "5207",
+            "name": "Ленты, шпагаты, бирки",
+            "slug": "lenty-shpagaty-birki-5207",
+            "children": []
+          },
+          {
+            "id": "4976",
+            "name": "Банты декоративные",
+            "slug": "banty-dekorativnye-4976",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1363",
+        "name": "Свечи, арома-наборы",
+        "slug": "svechi-aroma-nabory-1363",
+        "children": []
+      },
+      {
+        "id": "1197",
+        "name": "Открытки",
+        "slug": "otkrytki-1197",
+        "children": [
+          {
+            "id": "1715",
+            "name": "Открытки: Календарные и профессиональные праздники",
+            "slug": "otkrytki-kalendarnye-i-professionalnye-prazdniki-1715",
+            "children": []
+          },
+          {
+            "id": "1719",
+            "name": "Открытки: События",
+            "slug": "otkrytki-sobytiya-1719",
+            "children": []
+          },
+          {
+            "id": "1716",
+            "name": "Открытки: Дни рождения",
+            "slug": "otkrytki-dni-rozhdeniya-1716",
+            "children": []
+          },
+          {
+            "id": "1717",
+            "name": "Открытки: Пожелания",
+            "slug": "otkrytki-pozhelaniya-1717",
+            "children": []
+          },
+          {
+            "id": "1720",
+            "name": "Открытки: Чувства, эмоции",
+            "slug": "otkrytki-chuvstva-emocii-1720",
+            "children": []
+          },
+          {
+            "id": "1721",
+            "name": "Открытки: Универсальные",
+            "slug": "otkrytki-universalnye-1721",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1198",
+        "name": "Приглашения",
+        "slug": "priglasheniya-1198",
+        "children": []
+      },
+      {
+        "id": "1201",
+        "name": "Наградная продукция",
+        "slug": "nagradnaya-produkciya-1201",
+        "children": [
+          {
+            "id": "1710",
+            "name": "Грамоты, дипломы",
+            "slug": "gramoty-diplomy-1710",
+            "children": []
+          },
+          {
+            "id": "1711",
+            "name": "Кубки, медали",
+            "slug": "kubki-medali-1711",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1520",
+        "name": "Модные аксессуары",
+        "slug": "modnye-aksessuary-1520",
+        "children": []
+      },
+      {
+        "id": "3428",
+        "name": "Магниты сувенирные, стикеры, фликеры",
+        "slug": "magnity-suvenirnye-stikery-flikery-3428",
+        "children": []
+      },
+      {
+        "id": "3429",
+        "name": "Фигуры, украшения интерьерные",
+        "slug": "figury-ukrasheniya-interernye-3429",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1231",
+    "name": "Активный отдых",
+    "menuName": "Активный отдых",
+    "slug": "aktivnyj-otdyh-1231",
+    "groups": [
+      {
+        "id": "1232",
+        "name": "Фонари",
+        "slug": "fonari-1232",
+        "children": []
+      },
+      {
+        "id": "2188",
+        "name": "Наборы для пикника",
+        "slug": "nabory-dlya-piknika-2188",
+        "children": []
+      },
+      {
+        "id": "2879",
+        "name": "Крепеж",
+        "slug": "krepezh-2879",
+        "children": []
+      },
+      {
+        "id": "1230",
+        "name": "Термосы, термокружки",
+        "slug": "termosy-termokruzhki-1230",
+        "children": []
+      },
+      {
+        "id": "1153",
+        "name": "Зажигалки и аксессуары",
+        "slug": "zazhigalki-i-aksessuary-1153",
+        "children": []
+      },
+      {
+        "id": "1157",
+        "name": "Ножи",
+        "slug": "nozhi-1157",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "14105",
+    "name": "Товары для кондитеров",
+    "menuName": "Для кондитеров",
+    "slug": "tovary-dlya-konditerov-14105",
+    "groups": [
+      {
+        "id": "14106",
+        "name": "Материалы для упаковки товара",
+        "slug": "materialy-dlya-upakovki-tovara-14106",
+        "children": [
+          {
+            "id": "4651",
+            "name": "Шоколад",
+            "slug": "shokolad-4651",
+            "children": []
+          },
+          {
+            "id": "4623",
+            "name": "Какао, какао-масло",
+            "slug": "kakao-kakao-maslo-4623",
+            "children": []
+          },
+          {
+            "id": "4652",
+            "name": "Молочная продукция",
+            "slug": "molochnaya-produkciya-4652",
+            "children": []
+          },
+          {
+            "id": "4654",
+            "name": "Пюре, пасты",
+            "slug": "pyure-pasty-4654",
+            "children": []
+          },
+          {
+            "id": "4655",
+            "name": "Ореховая продукция",
+            "slug": "orehovaya-produkciya-4655",
+            "children": []
+          },
+          {
+            "id": "4624",
+            "name": "Желирующие агенты",
+            "slug": "zheliruyuschie-agenty-4624",
+            "children": []
+          },
+          {
+            "id": "4656",
+            "name": "Прочее",
+            "slug": "prochee-4656",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "4628",
+        "name": "Красители",
+        "slug": "krasiteli-4628",
+        "children": [
+          {
+            "id": "4629",
+            "name": "Водорастворимые",
+            "slug": "vodorastvorimye-4629",
+            "children": []
+          },
+          {
+            "id": "4630",
+            "name": "Жирорастворимые",
+            "slug": "zhirorastvorimye-4630",
+            "children": []
+          },
+          {
+            "id": "4631",
+            "name": "Универсальные",
+            "slug": "universalnye-4631",
+            "children": []
+          },
+          {
+            "id": "4633",
+            "name": "Кандурин",
+            "slug": "kandurin-4633",
+            "children": []
+          },
+          {
+            "id": "4634",
+            "name": "Пыльца, маркеры пищевые",
+            "slug": "pylca-markery-pischevye-4634",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "4635",
+        "name": "Декор",
+        "slug": "dekor-4635",
+        "children": [
+          {
+            "id": "4636",
+            "name": "Посыпки",
+            "slug": "posypki-4636",
+            "children": []
+          },
+          {
+            "id": "4637",
+            "name": "Шоколадный декор",
+            "slug": "shokoladnyj-dekor-4637",
+            "children": []
+          },
+          {
+            "id": "4638",
+            "name": "Сахарные украшения",
+            "slug": "saharnye-ukrasheniya-4638",
+            "children": []
+          },
+          {
+            "id": "4659",
+            "name": "Сухие цветы",
+            "slug": "suhie-cvety-4659",
+            "children": []
+          },
+          {
+            "id": "4660",
+            "name": "Топперы",
+            "slug": "toppery-4660",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "4621",
+        "name": "Мастика, айсинг",
+        "slug": "mastika-ajsing-4621",
+        "children": []
+      },
+      {
+        "id": "4625",
+        "name": "Формы и коврики",
+        "slug": "formy-i-kovriki-4625",
+        "children": [
+          {
+            "id": "4657",
+            "name": "Металлические",
+            "slug": "metallicheskie-4657",
+            "children": []
+          },
+          {
+            "id": "4626",
+            "name": "Силиконовые",
+            "slug": "silikonovye-4626",
+            "children": []
+          },
+          {
+            "id": "4627",
+            "name": "Бумажные",
+            "slug": "bumazhnye-4627",
+            "children": []
+          },
+          {
+            "id": "4658",
+            "name": "Пластиковые и поликарбонатные",
+            "slug": "plastikovye-i-polikarbonatnye-4658",
+            "children": []
+          },
+          {
+            "id": "4679",
+            "name": "Коврики и пергамент",
+            "slug": "kovriki-i-pergament-4679",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "4639",
+        "name": "Инструменты и инвентарь",
+        "slug": "instrumenty-i-inventar-4639",
+        "children": [
+          {
+            "id": "4640",
+            "name": "Кондитерские мешки и насадки",
+            "slug": "konditerskie-meshki-i-nasadki-4640",
+            "children": []
+          },
+          {
+            "id": "4661",
+            "name": "Шпатели, скребки, ножи",
+            "slug": "shpateli-skrebki-nozhi-4661",
+            "children": []
+          },
+          {
+            "id": "4641",
+            "name": "Лопатки, венчики, скалки",
+            "slug": "lopatki-venchiki-skalki-4641",
+            "children": []
+          },
+          {
+            "id": "4662",
+            "name": "Поворотные столики и кондитерские подставки",
+            "slug": "povorotnye-stoliki-i-konditerskie-podstavki-4662",
+            "children": []
+          },
+          {
+            "id": "4642",
+            "name": "Инструменты для работы с мастикой",
+            "slug": "instrumenty-dlya-raboty-s-mastikoj-4642",
+            "children": []
+          },
+          {
+            "id": "4643",
+            "name": "Вырубки",
+            "slug": "vyrubki-4643",
+            "children": []
+          },
+          {
+            "id": "4663",
+            "name": "Трафареты",
+            "slug": "trafarety-4663",
+            "children": []
+          },
+          {
+            "id": "4644",
+            "name": "Прочее",
+            "slug": "prochee-4644",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "4645",
+        "name": "Кондитерская упаковка, подложки, фальш-ярусы",
+        "slug": "konditerskaya-upakovka-podlozhki-falsh-yarusy-4645",
+        "children": [
+          {
+            "id": "4646",
+            "name": "Коробки, пакеты",
+            "slug": "korobki-pakety-4646",
+            "children": []
+          },
+          {
+            "id": "4664",
+            "name": "Подложки",
+            "slug": "podlozhki-4664",
+            "children": []
+          },
+          {
+            "id": "4773",
+            "name": "Фальш-ярусы",
+            "slug": "falsh-yarusy-4773",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
